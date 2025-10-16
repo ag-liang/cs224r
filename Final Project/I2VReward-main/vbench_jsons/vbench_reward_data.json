@@ -1,0 +1,5402 @@
+[
+  {
+    "prompt": "a wine glass on the right of a cup, front view-4.mp4",
+    "path_A": "HunYuanVideo/a wine glass on the right of a cup, front view-4.mp4",
+    "path_B": "Lavie_interpolation/a wine glass on the right of a cup, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+    "path_A": "TF-T2V/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+    "path_B": "HunYuanVideo/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a train on the right of a boat, front view-0.mp4",
+    "path_A": "videocrafter/a train on the right of a boat, front view-0.mp4",
+    "path_B": "Vchitect-2.0-2B/a train on the right of a boat, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "an umbrella and a handbag-1.mp4",
+    "path_A": "AnimateLCM/an umbrella and a handbag-1.mp4",
+    "path_B": "lavie/an umbrella and a handbag-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a boat accelerating to gain speed-2.mp4",
+    "path_A": "MiniMax-Video-01/a boat accelerating to gain speed-2.mp4",
+    "path_B": "modelscope/a boat accelerating to gain speed-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, black and white-1.mp4",
+    "path_A": "videocrafter-09/Gwen Stacy reading a book, black and white-1.mp4",
+    "path_B": "OpenSoraPlan1-2/Gwen Stacy reading a book, black and white-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "fountain-3.mp4",
+    "path_A": "AnimateDiff-V1/fountain-3.mp4",
+    "path_B": "Latte-1/fountain-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of barn-0.mp4",
+    "path_A": "HiGen/A tranquil tableau of barn-0.mp4",
+    "path_B": "Wanx 2.1/A tranquil tableau of barn-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a carrot on the top of a hot dog, front view-1.mp4",
+    "path_A": "CausVid_24fps/a carrot on the top of a hot dog, front view-1.mp4",
+    "path_B": "Mochi-1/a carrot on the top of a hot dog, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "an elephant on the left of a bear, front view-4.mp4",
+    "path_A": "Mochi-1/an elephant on the left of a bear, front view-4.mp4",
+    "path_B": "Pika-1/an elephant on the left of a bear, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+    "path_A": "videocrafter-1/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+    "path_B": "Mochi-1/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+    "path_A": "videocrafter-1/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+    "path_B": "Mochi-1/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a vase and scissors-1.mp4",
+    "path_A": "Wanx 2.1/a vase and scissors-1.mp4",
+    "path_B": "lavie/a vase and scissors-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "The bund Shanghai, tilt down-1.mp4",
+    "path_A": "Show-1/The bund Shanghai, tilt down-1.mp4",
+    "path_B": "Mochi-1/The bund Shanghai, tilt down-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A person is doing aerobics-3.mp4",
+    "path_A": "modelscope/A person is doing aerobics-3.mp4",
+    "path_B": "Wanx 2.1/A person is doing aerobics-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a donut on the bottom of broccoli, front view-2.mp4",
+    "path_A": "InstructVideo(ModelScope)/a donut on the bottom of broccoli, front view-2.mp4",
+    "path_B": "HunYuanVideo/a donut on the bottom of broccoli, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "scissors and a teddy bear-3.mp4",
+    "path_A": "CogVideoX1.5-5B/scissors and a teddy bear-3.mp4",
+    "path_B": "lavie/scissors and a teddy bear-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4",
+    "path_A": "videocrafter-09/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4",
+    "path_B": "videocrafter-1/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a truck accelerating to gain speed-1.mp4",
+    "path_A": "opensora/a truck accelerating to gain speed-1.mp4",
+    "path_B": "CausVid/a truck accelerating to gain speed-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a toothbrush and a sink-4.mp4",
+    "path_A": "Gen-2/a toothbrush and a sink-4.mp4",
+    "path_B": "HunYuanVideo/a toothbrush and a sink-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "glacier-1.mp4",
+    "path_A": "AnimateDiff-V2/glacier-1.mp4",
+    "path_B": "OpenSoraV1-2(8s)/glacier-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "golf course-2.mp4",
+    "path_A": "pika-all-dimension/golf course-2.mp4",
+    "path_B": "CausVid_24fps/golf course-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-4.mp4",
+    "path_A": "HiGen/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-4.mp4",
+    "path_B": "AnimateDiff-V1/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A person is ice skating-0.mp4",
+    "path_A": "HiGen/A person is ice skating-0.mp4",
+    "path_B": "InstructVideo(ModelScope)/A person is ice skating-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a wine glass on the right of a cup, front view-2.mp4",
+    "path_A": "videocrafter-1/a wine glass on the right of a cup, front view-2.mp4",
+    "path_B": "Show-1/a wine glass on the right of a cup, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A person is strumming guitar-2.mp4",
+    "path_A": "CausVid/A person is strumming guitar-2.mp4",
+    "path_B": "HiGen/A person is strumming guitar-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "cemetery-4.mp4",
+    "path_A": "Vchitect-2.0-2B/cemetery-4.mp4",
+    "path_B": "OpenSorav1-1/cemetery-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, watercolor painting-4.mp4",
+    "path_A": "videocrafter-1/A panda drinking coffee in a cafe in Paris, watercolor painting-4.mp4",
+    "path_B": "TF-T2V/A panda drinking coffee in a cafe in Paris, watercolor painting-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a keyboard and a cell phone-0.mp4",
+    "path_A": "Pika-1/a keyboard and a cell phone-0.mp4",
+    "path_B": "MiniMax-Video-01/a keyboard and a cell phone-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is knitting-2.mp4",
+    "path_A": "lavie/A person is knitting-2.mp4",
+    "path_B": "opensora/A person is knitting-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a pink chair-0.mp4",
+    "path_A": "videocrafter-09/a pink chair-0.mp4",
+    "path_B": "videocrafter-1/a pink chair-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a horse and a sheep-2.mp4",
+    "path_A": "HiGen/a horse and a sheep-2.mp4",
+    "path_B": "Lavie_interpolation/a horse and a sheep-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "an ice cream is melting on the table.-1.mp4",
+    "path_A": "CogVideoX1.5-5B/an ice cream is melting on the table.-1.mp4",
+    "path_B": "OpenSoraPlanv1-3/an ice cream is melting on the table.-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a cat drinking water-4.mp4",
+    "path_A": "Mochi-1/a cat drinking water-4.mp4",
+    "path_B": "videocrafter-09/a cat drinking water-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "an orange suitcase-0.mp4",
+    "path_A": "modelscope/an orange suitcase-0.mp4",
+    "path_B": "Pika-1/an orange suitcase-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a pink suitcase-0.mp4",
+    "path_A": "HiGen/a pink suitcase-0.mp4",
+    "path_B": "vidu/a pink suitcase-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a giraffe taking a peaceful walk-3.mp4",
+    "path_A": "CausVid_24fps/a giraffe taking a peaceful walk-3.mp4",
+    "path_B": "HiGen/a giraffe taking a peaceful walk-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-2.mp4",
+    "path_A": "Kling/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-2.mp4",
+    "path_B": "OpenSorav1-1/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A person is rock climbing-3.mp4",
+    "path_A": "Mira-384/A person is rock climbing-3.mp4",
+    "path_B": "cogvideo/A person is rock climbing-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "bakery shop-0.mp4",
+    "path_A": "AnimateDiff-V2/bakery shop-0.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/bakery shop-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a bus accelerating to gain speed-4.mp4",
+    "path_A": "CausVid/a bus accelerating to gain speed-4.mp4",
+    "path_B": "vidu/a bus accelerating to gain speed-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a carrot on the bottom of a hot dog, front view-1.mp4",
+    "path_A": "TF-T2V/a carrot on the bottom of a hot dog, front view-1.mp4",
+    "path_B": "OpenSoraPlanv1-3/a carrot on the bottom of a hot dog, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "In a still frame, a park bench with a view of the lake-1.mp4",
+    "path_A": "CausVid_24fps/In a still frame, a park bench with a view of the lake-1.mp4",
+    "path_B": "Jimeng/In a still frame, a park bench with a view of the lake-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A person is bungee jumping-4.mp4",
+    "path_A": "CausVid/A person is bungee jumping-4.mp4",
+    "path_B": "TF-T2V/A person is bungee jumping-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a bus stuck in traffic during rush hour-2.mp4",
+    "path_A": "CausVid/a bus stuck in traffic during rush hour-2.mp4",
+    "path_B": "OpenSoraPlan1-2/a bus stuck in traffic during rush hour-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, tilt down-2.mp4",
+    "path_A": "Latte-1/An astronaut flying in space, tilt down-2.mp4",
+    "path_B": "vidu/An astronaut flying in space, tilt down-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A person is playing flute-2.mp4",
+    "path_A": "AnimateDiff-V2/A person is playing flute-2.mp4",
+    "path_B": "OpenSoraPlanv1-1/A person is playing flute-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a kite-4.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/a kite-4.mp4",
+    "path_B": "Mochi-1/a kite-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A polar bear is playing guitar-2.mp4",
+    "path_A": "OpenSoraPlanv1-1/A polar bear is playing guitar-2.mp4",
+    "path_B": "videocrafter-2/A polar bear is playing guitar-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a chair-0.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/A tranquil tableau of a chair-0.mp4",
+    "path_B": "pika-all-dimension/A tranquil tableau of a chair-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a bear-4.mp4",
+    "path_A": "videocrafter-2/a bear-4.mp4",
+    "path_B": "modelscope/a bear-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "barn-1.mp4",
+    "path_A": "CausVid_24fps/barn-1.mp4",
+    "path_B": "cogvideo/barn-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a handbag-1.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a handbag-1.mp4",
+    "path_B": "InstructVideo(ModelScope)/a handbag-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-4.mp4",
+    "path_A": "Gen-3/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-4.mp4",
+    "path_B": "InstructVideo(ModelScope)/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a pink bird-2.mp4",
+    "path_A": "videocrafter-09/a pink bird-2.mp4",
+    "path_B": "Pika-1/a pink bird-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4",
+    "path_A": "CogVideoX-2B(SAT)/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4",
+    "path_B": "Mira-384/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "classroom-2.mp4",
+    "path_A": "InstructVideo(ModelScope)/classroom-2.mp4",
+    "path_B": "cogvideo/classroom-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "an orange car-1.mp4",
+    "path_A": "Latte-1/an orange car-1.mp4",
+    "path_B": "CausVid_24fps/an orange car-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "an airplane taking off-3.mp4",
+    "path_A": "Wanx 2.1/an airplane taking off-3.mp4",
+    "path_B": "HiGen/an airplane taking off-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "driveway-2.mp4",
+    "path_A": "OpenSoraV1-2(8s)/driveway-2.mp4",
+    "path_B": "videocrafter-09/driveway-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a sheep bending down to drink water from a river-1.mp4",
+    "path_A": "videocrafter-2/a sheep bending down to drink water from a river-1.mp4",
+    "path_B": "Latte-1/a sheep bending down to drink water from a river-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, tilt up-2.mp4",
+    "path_A": "OpenSorav1-1/A panda drinking coffee in a cafe in Paris, tilt up-2.mp4",
+    "path_B": "MiniMax-Video-01/A panda drinking coffee in a cafe in Paris, tilt up-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a vintage rocking chair was placed on the porch-4.mp4",
+    "path_A": "TF-T2V/A tranquil tableau of a vintage rocking chair was placed on the porch-4.mp4",
+    "path_B": "vidu/A tranquil tableau of a vintage rocking chair was placed on the porch-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a knife-1.mp4",
+    "path_A": "OpenSoraPlan1-2/a knife-1.mp4",
+    "path_B": "videocrafter-1/a knife-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a purple bird-3.mp4",
+    "path_A": "videocrafter-1/a purple bird-3.mp4",
+    "path_B": "AnimateDiff-V2/a purple bird-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, surrealism style-0.mp4",
+    "path_A": "Lavie_interpolation/An astronaut flying in space, surrealism style-0.mp4",
+    "path_B": "HunYuanVideo/An astronaut flying in space, surrealism style-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a black cat-3.mp4",
+    "path_A": "OpenSoraPlanv1-1/a black cat-3.mp4",
+    "path_B": "AnimateDiff-V2/a black cat-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a motorcycle slowing down to stop-4.mp4",
+    "path_A": "CausVid_24fps/a motorcycle slowing down to stop-4.mp4",
+    "path_B": "Show-1/a motorcycle slowing down to stop-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a donut and a suitcase-4.mp4",
+    "path_A": "OpenSoraPlanv1-1/a donut and a suitcase-4.mp4",
+    "path_B": "Kling/a donut and a suitcase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a cup on the left of a fork, front view-4.mp4",
+    "path_A": "CogVideoX1.5-5B/a cup on the left of a fork, front view-4.mp4",
+    "path_B": "pika-all-dimension/a cup on the left of a fork, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4",
+    "path_A": "InstructVideo(ModelScope)/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4",
+    "path_B": "Mira-384/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A person is pushing cart-1.mp4",
+    "path_A": "CogVideoX-2B(SAT)/A person is pushing cart-1.mp4",
+    "path_B": "Mochi-1/A person is pushing cart-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a bicycle on the left of a car, front view-4.mp4",
+    "path_A": "AnimateLCM/a bicycle on the left of a car, front view-4.mp4",
+    "path_B": "InstructVideo(ModelScope)/a bicycle on the left of a car, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "outdoor track-4.mp4",
+    "path_A": "Mira-384/outdoor track-4.mp4",
+    "path_B": "Gen-3/outdoor track-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a cat grooming itself meticulously with its tongue-3.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a cat grooming itself meticulously with its tongue-3.mp4",
+    "path_B": "Kling/a cat grooming itself meticulously with its tongue-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "downtown-0.mp4",
+    "path_A": "CausVid_24fps/downtown-0.mp4",
+    "path_B": "Pika-1/downtown-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a bicycle slowing down to stop-4.mp4",
+    "path_A": "AnimateLCM/a bicycle slowing down to stop-4.mp4",
+    "path_B": "videocrafter-2/a bicycle slowing down to stop-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a bicycle leaning against a tree-1.mp4",
+    "path_A": "Pika-1/a bicycle leaning against a tree-1.mp4",
+    "path_B": "OpenSoraPlanv1-1/a bicycle leaning against a tree-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a red bicycle-1.mp4",
+    "path_A": "videocrafter/a red bicycle-1.mp4",
+    "path_B": "videocrafter-1/a red bicycle-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A person is doing laundry-0.mp4",
+    "path_A": "modelscope/A person is doing laundry-0.mp4",
+    "path_B": "OpenSoraPlan1-2/A person is doing laundry-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a boat on the left of an airplane, front view-1.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a boat on the left of an airplane, front view-1.mp4",
+    "path_B": "Gen-3/a boat on the left of an airplane, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4",
+    "path_A": "CogVideoX-5B(SAT)/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4",
+    "path_B": "CausVid_24fps/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a pizza and a tie-1.mp4",
+    "path_A": "Wanx 2.1/a pizza and a tie-1.mp4",
+    "path_B": "vidu/a pizza and a tie-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "bakery shop-2.mp4",
+    "path_A": "Wanx 2.1/bakery shop-2.mp4",
+    "path_B": "HunYuanVideo/bakery shop-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4",
+    "path_A": "Jimeng/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4",
+    "path_B": "Gen-3/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A person is running on treadmill-2.mp4",
+    "path_A": "OpenSorav1-1/A person is running on treadmill-2.mp4",
+    "path_B": "pika-all-dimension/A person is running on treadmill-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "restaurant-4.mp4",
+    "path_A": "CogVideoX-5B(SAT)/restaurant-4.mp4",
+    "path_B": "OpenSorav1-1/restaurant-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a fire hydrant-0.mp4",
+    "path_A": "Wanx 2.1/a fire hydrant-0.mp4",
+    "path_B": "OpenSoraPlanv1-3/a fire hydrant-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of bathroom-0.mp4",
+    "path_A": "videocrafter/A tranquil tableau of bathroom-0.mp4",
+    "path_B": "LTX-Video (5s 768\u00d7512)/A tranquil tableau of bathroom-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo-1.mp4",
+    "path_A": "videocrafter/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo-1.mp4",
+    "path_B": "Gen-2/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a baseball glove-3.mp4",
+    "path_A": "Gen-2/a baseball glove-3.mp4",
+    "path_B": "lavie/a baseball glove-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "Pacific coast, carmel by the sea ocean and waves.-0.mp4",
+    "path_A": "Vchitect-2.0-2B/Pacific coast, carmel by the sea ocean and waves.-0.mp4",
+    "path_B": "HiGen/Pacific coast, carmel by the sea ocean and waves.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4",
+    "path_A": "HunYuanVideo/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4",
+    "path_B": "lavie/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, oil painting-1.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/An astronaut flying in space, oil painting-1.mp4",
+    "path_B": "HiGen/An astronaut flying in space, oil painting-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a hot dog on the bottom of a pizza, front view-4.mp4",
+    "path_A": "Mochi-1/a hot dog on the bottom of a pizza, front view-4.mp4",
+    "path_B": "TF-T2V/a hot dog on the bottom of a pizza, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a hot dog on the bottom of a pizza, front view-4.mp4",
+    "path_A": "videocrafter-09/a hot dog on the bottom of a pizza, front view-4.mp4",
+    "path_B": "OpenSoraPlanv1-3/a hot dog on the bottom of a pizza, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+    "path_A": "HunYuanVideo/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+    "path_B": "pika-all-dimension/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a person swimming in ocean-4.mp4",
+    "path_A": "Pika-1/a person swimming in ocean-4.mp4",
+    "path_B": "opensora/a person swimming in ocean-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a white suitcase-3.mp4",
+    "path_A": "AnimateLCM/a white suitcase-3.mp4",
+    "path_B": "CogVideoX-2B(SAT)/a white suitcase-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "An astronaut is riding a horse in the space in a photorealistic style.-2.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/An astronaut is riding a horse in the space in a photorealistic style.-2.mp4",
+    "path_B": "Jimeng/An astronaut is riding a horse in the space in a photorealistic style.-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a purple bowl-3.mp4",
+    "path_A": "Kling/a purple bowl-3.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a purple bowl-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a bicycle and an airplane-2.mp4",
+    "path_A": "AnimateLCM/a bicycle and an airplane-2.mp4",
+    "path_B": "Wanx 2.1/a bicycle and an airplane-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a dog drinking water-4.mp4",
+    "path_A": "Gen-3/a dog drinking water-4.mp4",
+    "path_B": "CausVid/a dog drinking water-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a bowl-2.mp4",
+    "path_A": "AnimateLCM/A tranquil tableau of a bowl-2.mp4",
+    "path_B": "opensora/A tranquil tableau of a bowl-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a train crossing over a tall bridge-1.mp4",
+    "path_A": "Pika-1/a train crossing over a tall bridge-1.mp4",
+    "path_B": "videocrafter-2/a train crossing over a tall bridge-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a motorcycle gliding through a snowy field-1.mp4",
+    "path_A": "Latte-1/a motorcycle gliding through a snowy field-1.mp4",
+    "path_B": "CogVideoX-2B(SAT)/a motorcycle gliding through a snowy field-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a kite-0.mp4",
+    "path_A": "AnimateDiff-V2/a kite-0.mp4",
+    "path_B": "Mochi-1/a kite-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-1.mp4",
+    "path_A": "InstructVideo(ModelScope)/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-1.mp4",
+    "path_B": "modelscope/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a yellow vase-0.mp4",
+    "path_A": "CogVideoX-5B(SAT)/a yellow vase-0.mp4",
+    "path_B": "CogVideoX-2B(SAT)/a yellow vase-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4",
+    "path_A": "Gen-2/A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4",
+    "path_B": "videocrafter/A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, Van Gogh style-4.mp4",
+    "path_A": "lavie/A cute happy Corgi playing in park, sunset, Van Gogh style-4.mp4",
+    "path_B": "videocrafter-1/A cute happy Corgi playing in park, sunset, Van Gogh style-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "indoor gymnasium, frozen in time-4.mp4",
+    "path_A": "modelscope/indoor gymnasium, frozen in time-4.mp4",
+    "path_B": "videocrafter-2/indoor gymnasium, frozen in time-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a red bird-3.mp4",
+    "path_A": "opensora/a red bird-3.mp4",
+    "path_B": "CogVideoX-2B(SAT)/a red bird-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "Robot dancing in Times Square.-1.mp4",
+    "path_A": "Lavie_interpolation/Robot dancing in Times Square.-1.mp4",
+    "path_B": "Jimeng/Robot dancing in Times Square.-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4",
+    "path_A": "MiniMax-Video-01/A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4",
+    "path_B": "Pika-1/A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A person is getting a haircut-3.mp4",
+    "path_A": "AnimateDiff-V1/A person is getting a haircut-3.mp4",
+    "path_B": "CausVid/A person is getting a haircut-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-3.mp4",
+    "path_A": "cogvideo/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-3.mp4",
+    "path_B": "Kling/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a purple clock-2.mp4",
+    "path_A": "Lavie_interpolation/a purple clock-2.mp4",
+    "path_B": "Mochi-1/a purple clock-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, zoom in-3.mp4",
+    "path_A": "Mochi-1/a shark is swimming in the ocean, zoom in-3.mp4",
+    "path_B": "Mira-384/a shark is swimming in the ocean, zoom in-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "castle-2.mp4",
+    "path_A": "opensora/castle-2.mp4",
+    "path_B": "vidu/castle-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-4.mp4",
+    "path_A": "Pika-1/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-4.mp4",
+    "path_B": "Show-1/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a spoon-4.mp4",
+    "path_A": "CausVid_24fps/a spoon-4.mp4",
+    "path_B": "OpenSoraPlan1-2/a spoon-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a fire hydrant and a stop sign-1.mp4",
+    "path_A": "CogVideoX-5B(SAT)/a fire hydrant and a stop sign-1.mp4",
+    "path_B": "TF-T2V/a fire hydrant and a stop sign-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-1.mp4",
+    "path_A": "CogVideoX-5B(SAT)/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-1.mp4",
+    "path_B": "CausVid/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a bird building a nest from twigs and leaves-2.mp4",
+    "path_A": "Show-1/a bird building a nest from twigs and leaves-2.mp4",
+    "path_B": "AnimateLCM/a bird building a nest from twigs and leaves-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a train-2.mp4",
+    "path_A": "CogVideoX-5B(SAT)/a train-2.mp4",
+    "path_B": "pika-all-dimension/a train-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A person is strumming guitar-2.mp4",
+    "path_A": "OpenSoraV1-2(8s)/A person is strumming guitar-2.mp4",
+    "path_B": "MiniMax-Video-01/A person is strumming guitar-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a horse running to join a herd of its kind-0.mp4",
+    "path_A": "CausVid/a horse running to join a herd of its kind-0.mp4",
+    "path_B": "OpenSoraV1-2(8s)/a horse running to join a herd of its kind-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-1.mp4",
+    "path_A": "Vchitect-2.0-2B/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-1.mp4",
+    "path_B": "CogVideoX-2B(SAT)/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a vase-3.mp4",
+    "path_A": "videocrafter-2/a vase-3.mp4",
+    "path_B": "CogVideoX1.5-5B/a vase-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a horse running to join a herd of its kind-4.mp4",
+    "path_A": "Gen-2/a horse running to join a herd of its kind-4.mp4",
+    "path_B": "pika-all-dimension/a horse running to join a herd of its kind-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a green suitcase-4.mp4",
+    "path_A": "Gen-2/a green suitcase-4.mp4",
+    "path_B": "Latte-1/a green suitcase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4",
+    "path_B": "modelscope/A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, surrealism style-2.mp4",
+    "path_A": "videocrafter-09/An astronaut flying in space, surrealism style-2.mp4",
+    "path_B": "Mira-384/An astronaut flying in space, surrealism style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A person is planting trees-2.mp4",
+    "path_A": "videocrafter-2/A person is planting trees-2.mp4",
+    "path_B": "opensora/A person is planting trees-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a bed-0.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a bed-0.mp4",
+    "path_B": "OpenSoraPlanv1-3/a bed-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a toilet and a hair drier-0.mp4",
+    "path_A": "Mochi-1/a toilet and a hair drier-0.mp4",
+    "path_B": "CausVid/a toilet and a hair drier-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is trimming or shaving beard-4.mp4",
+    "path_A": "videocrafter-2/A person is trimming or shaving beard-4.mp4",
+    "path_B": "MiniMax-Video-01/A person is trimming or shaving beard-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4",
+    "path_B": "Kling/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4",
+    "path_A": "TF-T2V/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4",
+    "path_B": "modelscope/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of bedroom-2.mp4",
+    "path_A": "Mochi-1/A tranquil tableau of bedroom-2.mp4",
+    "path_B": "vidu/A tranquil tableau of bedroom-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A steam train moving on a mountainside-0.mp4",
+    "path_A": "Mira-384/A steam train moving on a mountainside-0.mp4",
+    "path_B": "Gen-2/A steam train moving on a mountainside-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a tennis racket and a bottle-0.mp4",
+    "path_A": "CogVideoX1.5-5B/a tennis racket and a bottle-0.mp4",
+    "path_B": "Mira-384/a tennis racket and a bottle-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a sandwich on the bottom of an orange, front view-4.mp4",
+    "path_A": "OpenSoraPlanv1-1/a sandwich on the bottom of an orange, front view-4.mp4",
+    "path_B": "AnimateDiff-V1/a sandwich on the bottom of an orange, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a bus accelerating to gain speed-4.mp4",
+    "path_A": "Latte-1/a bus accelerating to gain speed-4.mp4",
+    "path_B": "CausVid/a bus accelerating to gain speed-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a stop sign-3.mp4",
+    "path_A": "Gen-3/a stop sign-3.mp4",
+    "path_B": "pika-all-dimension/a stop sign-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a chair on the left of a couch, front view-3.mp4",
+    "path_A": "opensora/a chair on the left of a couch, front view-3.mp4",
+    "path_B": "InstructVideo(ModelScope)/a chair on the left of a couch, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a bear sniffing the air for scents of food-0.mp4",
+    "path_A": "Latte-1/a bear sniffing the air for scents of food-0.mp4",
+    "path_B": "CausVid_24fps/a bear sniffing the air for scents of food-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "an oven on the bottom of a toaster, front view-3.mp4",
+    "path_A": "Mochi-1/an oven on the bottom of a toaster, front view-3.mp4",
+    "path_B": "Gen-3/an oven on the bottom of a toaster, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, Van Gogh style-2.mp4",
+    "path_A": "Latte-1/A panda drinking coffee in a cafe in Paris, Van Gogh style-2.mp4",
+    "path_B": "vidu/A panda drinking coffee in a cafe in Paris, Van Gogh style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a car stuck in traffic during rush hour-1.mp4",
+    "path_A": "Lavie_interpolation/a car stuck in traffic during rush hour-1.mp4",
+    "path_B": "Pika-1/a car stuck in traffic during rush hour-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, surrealism style-2.mp4",
+    "path_A": "Wanx 2.1/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, surrealism style-2.mp4",
+    "path_B": "lavie/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, surrealism style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a zebra taking a peaceful walk-3.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a zebra taking a peaceful walk-3.mp4",
+    "path_B": "Pika-1/a zebra taking a peaceful walk-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, racking focus-0.mp4",
+    "path_A": "OpenSoraPlanv1-3/A panda drinking coffee in a cafe in Paris, racking focus-0.mp4",
+    "path_B": "vidu/A panda drinking coffee in a cafe in Paris, racking focus-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "In a still frame, a pear-4.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/In a still frame, a pear-4.mp4",
+    "path_B": "vidu/In a still frame, a pear-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a green car-1.mp4",
+    "path_A": "Show-1/a green car-1.mp4",
+    "path_B": "CausVid_24fps/a green car-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a white cat-3.mp4",
+    "path_A": "lavie/a white cat-3.mp4",
+    "path_B": "OpenSoraPlanv1-1/a white cat-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a black umbrella-1.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a black umbrella-1.mp4",
+    "path_B": "OpenSorav1-1/a black umbrella-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a toilet on the left of a hair drier, front view-0.mp4",
+    "path_A": "OpenSoraPlanv1-1/a toilet on the left of a hair drier, front view-0.mp4",
+    "path_B": "Show-1/a toilet on the left of a hair drier, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a teddy bear on the right of a potted plant, front view-1.mp4",
+    "path_A": "Vchitect-2.0-2B/a teddy bear on the right of a potted plant, front view-1.mp4",
+    "path_B": "OpenSoraV1-2(8s)/a teddy bear on the right of a potted plant, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a car and a motorcycle-1.mp4",
+    "path_A": "videocrafter-09/a car and a motorcycle-1.mp4",
+    "path_B": "Jimeng/a car and a motorcycle-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "An animated painting of fluffy white clouds moving in sky.-3.mp4",
+    "path_A": "videocrafter/An animated painting of fluffy white clouds moving in sky.-3.mp4",
+    "path_B": "Mira-384/An animated painting of fluffy white clouds moving in sky.-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a bicycle on the left of a car, front view-3.mp4",
+    "path_A": "OpenSoraPlan1-2/a bicycle on the left of a car, front view-3.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/a bicycle on the left of a car, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A person is brushing teeth-0.mp4",
+    "path_A": "opensora/A person is brushing teeth-0.mp4",
+    "path_B": "TF-T2V/A person is brushing teeth-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a red car-3.mp4",
+    "path_A": "vidu/a red car-3.mp4",
+    "path_B": "videocrafter-1/a red car-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a blue bicycle-1.mp4",
+    "path_A": "HiGen/a blue bicycle-1.mp4",
+    "path_B": "Gen-3/a blue bicycle-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a bird on the left of a cat, front view-4.mp4",
+    "path_A": "opensora/a bird on the left of a cat, front view-4.mp4",
+    "path_B": "HunYuanVideo/a bird on the left of a cat, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, animated style-0.mp4",
+    "path_A": "Pika-1/A beautiful coastal beach in spring, waves lapping on sand, animated style-0.mp4",
+    "path_B": "Lavie_interpolation/A beautiful coastal beach in spring, waves lapping on sand, animated style-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4",
+    "path_B": "Mochi-1/A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a frisbee-0.mp4",
+    "path_A": "AnimateDiff-V2/a frisbee-0.mp4",
+    "path_B": "Gen-3/a frisbee-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "nursery-0.mp4",
+    "path_A": "OpenSoraPlanv1-1/nursery-0.mp4",
+    "path_B": "OpenSoraPlanv1-3/nursery-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a bed-1.mp4",
+    "path_A": "CausVid/a bed-1.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/a bed-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "The bund Shanghai, in cyberpunk style-2.mp4",
+    "path_A": "videocrafter-09/The bund Shanghai, in cyberpunk style-2.mp4",
+    "path_B": "AnimateDiff-V1/The bund Shanghai, in cyberpunk style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A person is baby waking up-4.mp4",
+    "path_A": "OpenSoraPlanv1-1/A person is baby waking up-4.mp4",
+    "path_B": "Mochi-1/A person is baby waking up-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, Van Gogh style-1.mp4",
+    "path_A": "CausVid_24fps/An astronaut flying in space, Van Gogh style-1.mp4",
+    "path_B": "lavie/An astronaut flying in space, Van Gogh style-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a person washing the dishes-3.mp4",
+    "path_A": "lavie/a person washing the dishes-3.mp4",
+    "path_B": "Vchitect-2.0-2B/a person washing the dishes-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, animated style-0.mp4",
+    "path_A": "OpenSorav1-1/A panda drinking coffee in a cafe in Paris, animated style-0.mp4",
+    "path_B": "modelscope/A panda drinking coffee in a cafe in Paris, animated style-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "The bund Shanghai, pixel art-4.mp4",
+    "path_A": "HiGen/The bund Shanghai, pixel art-4.mp4",
+    "path_B": "videocrafter-1/The bund Shanghai, pixel art-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a motorcycle turning a corner-4.mp4",
+    "path_A": "HiGen/a motorcycle turning a corner-4.mp4",
+    "path_B": "Wanx 2.1/a motorcycle turning a corner-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4",
+    "path_A": "MiniMax-Video-01/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4",
+    "path_B": "OpenSoraPlan1-2/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a bench-4.mp4",
+    "path_A": "AnimateLCM/a bench-4.mp4",
+    "path_B": "CausVid/a bench-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "office-3.mp4",
+    "path_A": "Mira-384/office-3.mp4",
+    "path_B": "Pika-1/office-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, pan right-4.mp4",
+    "path_A": "Wanx 2.1/a shark is swimming in the ocean, pan right-4.mp4",
+    "path_B": "cogvideo/a shark is swimming in the ocean, pan right-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A super robot protecting city-1.mp4",
+    "path_A": "cogvideo/A super robot protecting city-1.mp4",
+    "path_B": "modelscope/A super robot protecting city-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a person washing the dishes-4.mp4",
+    "path_A": "MiniMax-Video-01/a person washing the dishes-4.mp4",
+    "path_B": "OpenSoraPlan1-2/a person washing the dishes-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4",
+    "path_A": "Wanx 2.1/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4",
+    "path_B": "Vchitect-2.0-2B/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, pixel art-4.mp4",
+    "path_A": "Gen-2/a shark is swimming in the ocean, pixel art-4.mp4",
+    "path_B": "videocrafter-2/a shark is swimming in the ocean, pixel art-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A person is peeling apples-3.mp4",
+    "path_A": "CausVid/A person is peeling apples-3.mp4",
+    "path_B": "Vchitect-2.0-2B/A person is peeling apples-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "A storm trooper vacuuming the beach.-3.mp4",
+    "path_A": "CausVid_24fps/A storm trooper vacuuming the beach.-3.mp4",
+    "path_B": "Vchitect-2.0-2B/A storm trooper vacuuming the beach.-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "industrial area-0.mp4",
+    "path_A": "Vchitect-2.0-2B/industrial area-0.mp4",
+    "path_B": "Gen-2/industrial area-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a horse taking a peaceful walk-3.mp4",
+    "path_A": "Gen-3/a horse taking a peaceful walk-3.mp4",
+    "path_B": "LTX-Video (5s 768\u00d7512)/a horse taking a peaceful walk-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a green suitcase-4.mp4",
+    "path_A": "MiniMax-Video-01/a green suitcase-4.mp4",
+    "path_B": "Pika-1/a green suitcase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "food court-0.mp4",
+    "path_A": "HiGen/food court-0.mp4",
+    "path_B": "Luma/food court-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, zoom in-1.mp4",
+    "path_A": "Jimeng/a shark is swimming in the ocean, zoom in-1.mp4",
+    "path_B": "CogVideoX1.5-5B/a shark is swimming in the ocean, zoom in-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A person is arranging flowers-2.mp4",
+    "path_A": "InstructVideo(ModelScope)/A person is arranging flowers-2.mp4",
+    "path_B": "MiniMax-Video-01/A person is arranging flowers-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a yellow clock-4.mp4",
+    "path_A": "OpenSoraPlanv1-3/a yellow clock-4.mp4",
+    "path_B": "Wanx 2.1/a yellow clock-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a motorcycle accelerating to gain speed-0.mp4",
+    "path_A": "videocrafter-2/a motorcycle accelerating to gain speed-0.mp4",
+    "path_B": "HunYuanVideo/a motorcycle accelerating to gain speed-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a snowboard and a sports ball-0.mp4",
+    "path_A": "videocrafter-2/a snowboard and a sports ball-0.mp4",
+    "path_B": "Gen-2/a snowboard and a sports ball-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "an oven on the top of a toaster, front view-2.mp4",
+    "path_A": "CausVid/an oven on the top of a toaster, front view-2.mp4",
+    "path_B": "OpenSoraPlan1-2/an oven on the top of a toaster, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A fat rabbit wearing a purple robe walking through a fantasy landscape.-0.mp4",
+    "path_A": "Lavie_interpolation/A fat rabbit wearing a purple robe walking through a fantasy landscape.-0.mp4",
+    "path_B": "videocrafter/A fat rabbit wearing a purple robe walking through a fantasy landscape.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a bicycle leaning against a tree-1.mp4",
+    "path_A": "Vchitect-2.0-2B/a bicycle leaning against a tree-1.mp4",
+    "path_B": "AnimateLCM/a bicycle leaning against a tree-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a person walking in the snowstorm-3.mp4",
+    "path_A": "videocrafter/a person walking in the snowstorm-3.mp4",
+    "path_B": "videocrafter-2/a person walking in the snowstorm-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "botanical garden-1.mp4",
+    "path_A": "Wanx 2.1/botanical garden-1.mp4",
+    "path_B": "InstructVideo(ModelScope)/botanical garden-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a bird building a nest from twigs and leaves-0.mp4",
+    "path_A": "videocrafter/a bird building a nest from twigs and leaves-0.mp4",
+    "path_B": "opensora/a bird building a nest from twigs and leaves-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "an oven on the bottom of a toaster, front view-1.mp4",
+    "path_A": "Show-1/an oven on the bottom of a toaster, front view-1.mp4",
+    "path_B": "TF-T2V/an oven on the bottom of a toaster, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "an oven on the bottom of a toaster, front view-2.mp4",
+    "path_A": "CogVideoX1.5-5B/an oven on the bottom of a toaster, front view-2.mp4",
+    "path_B": "Gen-2/an oven on the bottom of a toaster, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a truck stuck in traffic during rush hour-4.mp4",
+    "path_A": "videocrafter-09/a truck stuck in traffic during rush hour-4.mp4",
+    "path_B": "Show-1/a truck stuck in traffic during rush hour-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a hair drier and a toothbrush-1.mp4",
+    "path_A": "Kling/a hair drier and a toothbrush-1.mp4",
+    "path_B": "Wanx 2.1/a hair drier and a toothbrush-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "junkyard-0.mp4",
+    "path_A": "videocrafter-1/junkyard-0.mp4",
+    "path_B": "Show-1/junkyard-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, pan left-3.mp4",
+    "path_A": "pika-all-dimension/An astronaut flying in space, pan left-3.mp4",
+    "path_B": "Mira-384/An astronaut flying in space, pan left-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "an oven-0.mp4",
+    "path_A": "Gen-2/an oven-0.mp4",
+    "path_B": "opensora/an oven-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a red clock-3.mp4",
+    "path_A": "OpenSoraPlanv1-1/a red clock-3.mp4",
+    "path_B": "HunYuanVideo/a red clock-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a person eating a burger-3.mp4",
+    "path_A": "Gen-3/a person eating a burger-3.mp4",
+    "path_B": "videocrafter-1/a person eating a burger-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, surrealism style-2.mp4",
+    "path_A": "lavie/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, surrealism style-2.mp4",
+    "path_B": "videocrafter-09/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, surrealism style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a dog enjoying a peaceful walk-0.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a dog enjoying a peaceful walk-0.mp4",
+    "path_B": "CausVid/a dog enjoying a peaceful walk-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a snowboard on the bottom of a kite, front view-3.mp4",
+    "path_A": "Kling/a snowboard on the bottom of a kite, front view-3.mp4",
+    "path_B": "HiGen/a snowboard on the bottom of a kite, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a donut and a suitcase-1.mp4",
+    "path_A": "Gen-3/a donut and a suitcase-1.mp4",
+    "path_B": "videocrafter-1/a donut and a suitcase-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a horse galloping across an open field-3.mp4",
+    "path_A": "Lavie_interpolation/a horse galloping across an open field-3.mp4",
+    "path_B": "OpenSoraPlanv1-3/a horse galloping across an open field-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a bird-1.mp4",
+    "path_A": "Kling/a bird-1.mp4",
+    "path_B": "Show-1/a bird-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A person is riding scooter-0.mp4",
+    "path_A": "CausVid/A person is riding scooter-0.mp4",
+    "path_B": "HunYuanVideo/A person is riding scooter-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, zoom out-3.mp4",
+    "path_A": "Luma/Gwen Stacy reading a book, zoom out-3.mp4",
+    "path_B": "Vchitect-2.0-2B/Gwen Stacy reading a book, zoom out-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space by Hokusai, in the style of Ukiyo-0.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/An astronaut flying in space by Hokusai, in the style of Ukiyo-0.mp4",
+    "path_B": "HunYuanVideo/An astronaut flying in space by Hokusai, in the style of Ukiyo-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a keyboard-1.mp4",
+    "path_A": "OpenSoraPlan1-2/a keyboard-1.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/a keyboard-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a red bicycle-0.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a red bicycle-0.mp4",
+    "path_B": "AnimateDiff-V2/a red bicycle-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a boat on the left of an airplane, front view-4.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/a boat on the left of an airplane, front view-4.mp4",
+    "path_B": "opensora/a boat on the left of an airplane, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "time lapse of sunrise on mars.-1.mp4",
+    "path_A": "InstructVideo(ModelScope)/time lapse of sunrise on mars.-1.mp4",
+    "path_B": "CogVideoX-2B(SAT)/time lapse of sunrise on mars.-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4",
+    "path_B": "CausVid_24fps/A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "bedroom-4.mp4",
+    "path_A": "cogvideo/bedroom-4.mp4",
+    "path_B": "videocrafter-2/bedroom-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, black and white-2.mp4",
+    "path_A": "videocrafter/A cute happy Corgi playing in park, sunset, black and white-2.mp4",
+    "path_B": "HunYuanVideo/A cute happy Corgi playing in park, sunset, black and white-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a fantasy landscape-4.mp4",
+    "path_A": "CogVideoX-5B(SAT)/a fantasy landscape-4.mp4",
+    "path_B": "Jimeng/a fantasy landscape-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-3.mp4",
+    "path_A": "modelscope/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-3.mp4",
+    "path_B": "AnimateDiff-V2/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a white bird-0.mp4",
+    "path_A": "Jimeng/a white bird-0.mp4",
+    "path_B": "Mochi-1/a white bird-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a cup-1.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/a cup-1.mp4",
+    "path_B": "videocrafter-2/a cup-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4",
+    "path_A": "videocrafter-2/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4",
+    "path_B": "AnimateLCM/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a sandwich-4.mp4",
+    "path_A": "videocrafter/a sandwich-4.mp4",
+    "path_B": "Mira-384/a sandwich-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "art gallery-1.mp4",
+    "path_A": "TF-T2V/art gallery-1.mp4",
+    "path_B": "Vchitect-2.0-2B/art gallery-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, Van Gogh style-3.mp4",
+    "path_A": "Mira-384/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, Van Gogh style-3.mp4",
+    "path_B": "modelscope/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, Van Gogh style-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A person is making bed-0.mp4",
+    "path_A": "Gen-3/A person is making bed-0.mp4",
+    "path_B": "opensora/A person is making bed-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "staircase-1.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/staircase-1.mp4",
+    "path_B": "InstructVideo(ModelScope)/staircase-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4",
+    "path_A": "videocrafter-2/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4",
+    "path_B": "vidu/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A raccoon that looks like a turtle, digital art.-0.mp4",
+    "path_A": "Mochi-1/A raccoon that looks like a turtle, digital art.-0.mp4",
+    "path_B": "LTX-Video (5s 768\u00d7512)/A raccoon that looks like a turtle, digital art.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a train on the right of a boat, front view-0.mp4",
+    "path_A": "CogVideoX-5B(SAT)/a train on the right of a boat, front view-0.mp4",
+    "path_B": "OpenSoraPlanv1-3/a train on the right of a boat, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "The bund Shanghai, in super slow motion-3.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/The bund Shanghai, in super slow motion-3.mp4",
+    "path_B": "Lavie_interpolation/The bund Shanghai, in super slow motion-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a giraffe running to join a herd of its kind-3.mp4",
+    "path_A": "HunYuanVideo/a giraffe running to join a herd of its kind-3.mp4",
+    "path_B": "OpenSorav1-1/a giraffe running to join a herd of its kind-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, animated style-3.mp4",
+    "path_A": "MiniMax-Video-01/a shark is swimming in the ocean, animated style-3.mp4",
+    "path_B": "HiGen/a shark is swimming in the ocean, animated style-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "beach-2.mp4",
+    "path_A": "Gen-2/beach-2.mp4",
+    "path_B": "modelscope/beach-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a yellow bowl-4.mp4",
+    "path_A": "TF-T2V/a yellow bowl-4.mp4",
+    "path_B": "modelscope/a yellow bowl-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a cow-4.mp4",
+    "path_A": "Gen-2/a cow-4.mp4",
+    "path_B": "OpenSoraV1-2(8s)/a cow-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a black bird-1.mp4",
+    "path_A": "videocrafter-2/a black bird-1.mp4",
+    "path_B": "TF-T2V/a black bird-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "bathroom-0.mp4",
+    "path_A": "vidu/bathroom-0.mp4",
+    "path_B": "videocrafter-1/bathroom-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a car accelerating to gain speed-3.mp4",
+    "path_A": "opensora/a car accelerating to gain speed-3.mp4",
+    "path_B": "CogVideoX-2B(SAT)/a car accelerating to gain speed-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "an elephant on the left of a bear, front view-0.mp4",
+    "path_A": "pika-all-dimension/an elephant on the left of a bear, front view-0.mp4",
+    "path_B": "Vchitect-2.0-2B/an elephant on the left of a bear, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a sheep on the left of a cow, front view-1.mp4",
+    "path_A": "Vchitect-2.0-2B/a sheep on the left of a cow, front view-1.mp4",
+    "path_B": "CogVideoX1.5-5B/a sheep on the left of a cow, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a dog playing in park-1.mp4",
+    "path_A": "vidu/a dog playing in park-1.mp4",
+    "path_B": "Latte-1/a dog playing in park-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "cemetery-0.mp4",
+    "path_A": "modelscope/cemetery-0.mp4",
+    "path_B": "TF-T2V/cemetery-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a sheep taking a peaceful walk-0.mp4",
+    "path_A": "OpenSoraPlan1-2/a sheep taking a peaceful walk-0.mp4",
+    "path_B": "lavie/a sheep taking a peaceful walk-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a backpack-3.mp4",
+    "path_A": "cogvideo/a backpack-3.mp4",
+    "path_B": "pika-all-dimension/a backpack-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, racking focus-0.mp4",
+    "path_A": "Jimeng/An astronaut flying in space, racking focus-0.mp4",
+    "path_B": "AnimateLCM/An astronaut flying in space, racking focus-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a horse and a sheep-3.mp4",
+    "path_A": "videocrafter-09/a horse and a sheep-3.mp4",
+    "path_B": "OpenSoraPlanv1-3/a horse and a sheep-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a bicycle and a car-0.mp4",
+    "path_A": "Wanx 2.1/a bicycle and a car-0.mp4",
+    "path_B": "videocrafter-2/a bicycle and a car-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a green bicycle-4.mp4",
+    "path_A": "vidu/a green bicycle-4.mp4",
+    "path_B": "AnimateLCM/a green bicycle-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "crosswalk-0.mp4",
+    "path_A": "Jimeng/crosswalk-0.mp4",
+    "path_B": "vidu/crosswalk-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4",
+    "path_A": "TF-T2V/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4",
+    "path_B": "Gen-2/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "an orange-3.mp4",
+    "path_A": "OpenSoraPlan1-2/an orange-3.mp4",
+    "path_B": "CogVideoX-5B(SAT)/an orange-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a backpack and an umbrella-1.mp4",
+    "path_A": "Latte-1/a backpack and an umbrella-1.mp4",
+    "path_B": "OpenSoraPlanv1-1/a backpack and an umbrella-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4",
+    "path_A": "TF-T2V/A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4",
+    "path_B": "OpenSoraPlan1-2/A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "ocean-2.mp4",
+    "path_A": "AnimateDiff-V1/ocean-2.mp4",
+    "path_B": "Sora/ocean-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-0.mp4",
+    "path_A": "OpenSorav1-1/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-0.mp4",
+    "path_B": "Pika-1/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "an elephant taking a peaceful walk-2.mp4",
+    "path_A": "Jimeng/an elephant taking a peaceful walk-2.mp4",
+    "path_B": "Latte-1/an elephant taking a peaceful walk-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4",
+    "path_A": "CogVideoX-5B(SAT)/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4",
+    "path_B": "videocrafter-1/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a cow chewing cud while resting in a tranquil barn-0.mp4",
+    "path_A": "opensora/a cow chewing cud while resting in a tranquil barn-0.mp4",
+    "path_B": "Luma/a cow chewing cud while resting in a tranquil barn-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A person is cutting watermelon-2.mp4",
+    "path_A": "videocrafter/A person is cutting watermelon-2.mp4",
+    "path_B": "vidu/A person is cutting watermelon-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a fork-2.mp4",
+    "path_A": "OpenSoraPlanv1-1/a fork-2.mp4",
+    "path_B": "Wanx 2.1/a fork-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a car slowing down to stop-0.mp4",
+    "path_A": "cogvideo/a car slowing down to stop-0.mp4",
+    "path_B": "Luma/a car slowing down to stop-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a microwave on the bottom of an oven, front view-1.mp4",
+    "path_A": "CausVid_24fps/a microwave on the bottom of an oven, front view-1.mp4",
+    "path_B": "Vchitect-2.0-2B/a microwave on the bottom of an oven, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A person is riding a bike-4.mp4",
+    "path_A": "OpenSoraPlan1-2/A person is riding a bike-4.mp4",
+    "path_B": "Luma/A person is riding a bike-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "In a still frame, courtyard-4.mp4",
+    "path_A": "CausVid_24fps/In a still frame, courtyard-4.mp4",
+    "path_B": "CogVideoX1.5-5B/In a still frame, courtyard-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "an airplane taking off-1.mp4",
+    "path_A": "Mochi-1/an airplane taking off-1.mp4",
+    "path_B": "Gen-3/an airplane taking off-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, in cyberpunk style-2.mp4",
+    "path_A": "MiracleVision V5/A panda drinking coffee in a cafe in Paris, in cyberpunk style-2.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/A panda drinking coffee in a cafe in Paris, in cyberpunk style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, in cyberpunk style-3.mp4",
+    "path_A": "CogVideoX-5B(SAT)/Gwen Stacy reading a book, in cyberpunk style-3.mp4",
+    "path_B": "OpenSoraPlan1-2/Gwen Stacy reading a book, in cyberpunk style-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "Sewing machine, old sewing machine working.-0.mp4",
+    "path_A": "videocrafter/Sewing machine, old sewing machine working.-0.mp4",
+    "path_B": "videocrafter-2/Sewing machine, old sewing machine working.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-3.mp4",
+    "path_A": "Lavie_interpolation/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-3.mp4",
+    "path_B": "MiniMax-Video-01/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "skis and a snowboard-2.mp4",
+    "path_A": "Luma/skis and a snowboard-2.mp4",
+    "path_B": "videocrafter-09/skis and a snowboard-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a black umbrella-0.mp4",
+    "path_A": "HunYuanVideo/a black umbrella-0.mp4",
+    "path_B": "Jimeng/a black umbrella-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-4.mp4",
+    "path_A": "Pika-1/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-4.mp4",
+    "path_B": "Latte-1/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a horse and a sheep-3.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a horse and a sheep-3.mp4",
+    "path_B": "RepVideo/a horse and a sheep-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is washing dishes-3.mp4",
+    "path_A": "videocrafter-09/A person is washing dishes-3.mp4",
+    "path_B": "MiracleVision V5/A person is washing dishes-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a green car-2.mp4",
+    "path_A": "Latte-1/a green car-2.mp4",
+    "path_B": "vidu/a green car-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "bridge-1.mp4",
+    "path_A": "AnimateLCM/bridge-1.mp4",
+    "path_B": "EasyAnimateV5.1/bridge-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "jail cell-3.mp4",
+    "path_A": "OpenSoraPlanv1-3/jail cell-3.mp4",
+    "path_B": "CogVideoX-2B(SAT)/jail cell-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a boat-1.mp4",
+    "path_A": "OpenSoraPlanv1-1/a boat-1.mp4",
+    "path_B": "AnimateDiff-V1/a boat-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a car on the right of a motorcycle, front view-2.mp4",
+    "path_A": "Luma/a car on the right of a motorcycle, front view-2.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/a car on the right of a motorcycle, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A person is tasting beer-3.mp4",
+    "path_A": "cogvideo/A person is tasting beer-3.mp4",
+    "path_B": "Luma/A person is tasting beer-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "campsite-4.mp4",
+    "path_A": "videocrafter-09/campsite-4.mp4",
+    "path_B": "HiGen/campsite-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a suitcase and a vase-2.mp4",
+    "path_A": "Pika-1/a suitcase and a vase-2.mp4",
+    "path_B": "Kling/a suitcase and a vase-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset by Hokusai, in the style of Ukiyo-0.mp4",
+    "path_A": "Wanx 2.1/A cute happy Corgi playing in park, sunset by Hokusai, in the style of Ukiyo-0.mp4",
+    "path_B": "videocrafter/A cute happy Corgi playing in park, sunset by Hokusai, in the style of Ukiyo-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A super robot protecting city-0.mp4",
+    "path_A": "Gen-2/A super robot protecting city-0.mp4",
+    "path_B": "OpenSorav1-1/A super robot protecting city-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, Van Gogh style-3.mp4",
+    "path_A": "vidu/a shark is swimming in the ocean, Van Gogh style-3.mp4",
+    "path_B": "AnimateLCM/a shark is swimming in the ocean, Van Gogh style-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, animated style-2.mp4",
+    "path_A": "Show-1/A cute happy Corgi playing in park, sunset, animated style-2.mp4",
+    "path_B": "modelscope/A cute happy Corgi playing in park, sunset, animated style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, animated style-2.mp4",
+    "path_A": "Show-1/A cute happy Corgi playing in park, sunset, animated style-2.mp4",
+    "path_B": "modelscope/A cute happy Corgi playing in park, sunset, animated style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a cat and a dog-4.mp4",
+    "path_A": "AnimateLCM/a cat and a dog-4.mp4",
+    "path_B": "CausVid/a cat and a dog-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, in cyberpunk style-2.mp4",
+    "path_A": "OpenSoraPlan1-2/Gwen Stacy reading a book, in cyberpunk style-2.mp4",
+    "path_B": "OpenSoraPlanv1-3/Gwen Stacy reading a book, in cyberpunk style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a snowboard and a sports ball-0.mp4",
+    "path_A": "MiracleVision V5/a snowboard and a sports ball-0.mp4",
+    "path_B": "OpenSorav1-1/a snowboard and a sports ball-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+    "path_A": "AnimateDiff-V2/Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+    "path_B": "OpenSorav1-1/Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, surrealism style-0.mp4",
+    "path_A": "Kling/An astronaut flying in space, surrealism style-0.mp4",
+    "path_B": "MiracleVision V5/An astronaut flying in space, surrealism style-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "an elephant-1.mp4",
+    "path_A": "OpenSoraPlanv1-3/an elephant-1.mp4",
+    "path_B": "OpenSoraV1-2(8s)/an elephant-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a parking meter-3.mp4",
+    "path_A": "Show-1/a parking meter-3.mp4",
+    "path_B": "TF-T2V/a parking meter-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a cell phone and a book-4.mp4",
+    "path_A": "CausVid/a cell phone and a book-4.mp4",
+    "path_B": "opensora/a cell phone and a book-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a horse galloping across an open field-3.mp4",
+    "path_A": "EasyAnimateV5.1/a horse galloping across an open field-3.mp4",
+    "path_B": "MiniMax-Video-01/a horse galloping across an open field-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a sink-4.mp4",
+    "path_A": "HunYuanVideo/a sink-4.mp4",
+    "path_B": "CausVid_24fps/a sink-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "an orange chair-1.mp4",
+    "path_A": "opensora/an orange chair-1.mp4",
+    "path_B": "OpenSoraV1-2(8s)/an orange chair-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-4.mp4",
+    "path_A": "AnimateDiff-V1/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-4.mp4",
+    "path_B": "Show-1/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4",
+    "path_A": "TF-T2V/A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4",
+    "path_B": "CausVid_24fps/A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, watercolor painting-4.mp4",
+    "path_A": "MiniMax-Video-01/An astronaut flying in space, watercolor painting-4.mp4",
+    "path_B": "lavie/An astronaut flying in space, watercolor painting-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of an antique bowl-2.mp4",
+    "path_A": "OpenSoraPlan1-2/A tranquil tableau of an antique bowl-2.mp4",
+    "path_B": "Latte-1/A tranquil tableau of an antique bowl-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a traffic light-1.mp4",
+    "path_A": "Vchitect-2.0-2B/a traffic light-1.mp4",
+    "path_B": "LTX-Video (5s 768\u00d7512)/a traffic light-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a tv and a laptop-1.mp4",
+    "path_A": "CausVid_24fps/a tv and a laptop-1.mp4",
+    "path_B": "Luma/a tv and a laptop-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "restaurant-3.mp4",
+    "path_A": "AnimateLCM/restaurant-3.mp4",
+    "path_B": "OpenSorav1-1/restaurant-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset-0.mp4",
+    "path_A": "CausVid_24fps/A cute happy Corgi playing in park, sunset-0.mp4",
+    "path_B": "pika-all-dimension/A cute happy Corgi playing in park, sunset-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a dining table-1.mp4",
+    "path_A": "Wanx 2.1/A tranquil tableau of a dining table-1.mp4",
+    "path_B": "Luma/A tranquil tableau of a dining table-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a stop sign and a parking meter-1.mp4",
+    "path_A": "videocrafter-2/a stop sign and a parking meter-1.mp4",
+    "path_B": "HunYuanVideo/a stop sign and a parking meter-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is kissing-2.mp4",
+    "path_A": "EasyAnimateV5.1/A person is kissing-2.mp4",
+    "path_B": "CogVideoX1.5-5B/A person is kissing-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a purple clock-3.mp4",
+    "path_A": "Mira-384/a purple clock-3.mp4",
+    "path_B": "OpenSoraPlanv1-1/a purple clock-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, with an intense shaking effect-0.mp4",
+    "path_A": "MiracleVision V5/An astronaut flying in space, with an intense shaking effect-0.mp4",
+    "path_B": "Luma/An astronaut flying in space, with an intense shaking effect-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4",
+    "path_A": "RepVideo/A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4",
+    "path_B": "CogVideoX-2B(SAT)/A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "downtown-3.mp4",
+    "path_A": "videocrafter-09/downtown-3.mp4",
+    "path_B": "CausVid/downtown-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a cow-3.mp4",
+    "path_A": "Wanx 2.1/a cow-3.mp4",
+    "path_B": "Show-1/a cow-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a bowl on the kitchen counter-1.mp4",
+    "path_A": "Gen-2/A tranquil tableau of a bowl on the kitchen counter-1.mp4",
+    "path_B": "CogVideoX1.5-5B/A tranquil tableau of a bowl on the kitchen counter-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A person is skydiving-0.mp4",
+    "path_A": "HunYuanVideo/A person is skydiving-0.mp4",
+    "path_B": "Mira-384/A person is skydiving-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "In a still frame, a stop sign-3.mp4",
+    "path_A": "CausVid/In a still frame, a stop sign-3.mp4",
+    "path_B": "Pika-1/In a still frame, a stop sign-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "volcano-2.mp4",
+    "path_A": "CogVideoX-2B(SAT)/volcano-2.mp4",
+    "path_B": "CausVid/volcano-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4",
+    "path_A": "EasyAnimateV5.1/A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4",
+    "path_B": "Show-1/A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "skis-0.mp4",
+    "path_A": "Gen-3/skis-0.mp4",
+    "path_B": "Pika-1/skis-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "scissors and a teddy bear-3.mp4",
+    "path_A": "opensora/scissors and a teddy bear-3.mp4",
+    "path_B": "CogVideoX1.5-5B/scissors and a teddy bear-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a person walking in the snowstorm-3.mp4",
+    "path_A": "InstructVideo(ModelScope)/a person walking in the snowstorm-3.mp4",
+    "path_B": "LTX-Video (5s 768\u00d7512)/a person walking in the snowstorm-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a train-4.mp4",
+    "path_A": "pika-all-dimension/a train-4.mp4",
+    "path_B": "OpenSoraPlanv1-3/a train-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A person is smoking-3.mp4",
+    "path_A": "AnimateDiff-V2/A person is smoking-3.mp4",
+    "path_B": "Gen-2/A person is smoking-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a couch-4.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/a couch-4.mp4",
+    "path_B": "Kling/a couch-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, oil painting-2.mp4",
+    "path_A": "OpenSoraPlanv1-1/A panda drinking coffee in a cafe in Paris, oil painting-2.mp4",
+    "path_B": "OpenSoraV1-2(8s)/A panda drinking coffee in a cafe in Paris, oil painting-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4",
+    "path_A": "AnimateLCM/A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4",
+    "path_B": "MiniMax-Video-01/A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a skateboard on the bottom of a surfboard, front view-2.mp4",
+    "path_A": "Show-1/a skateboard on the bottom of a surfboard, front view-2.mp4",
+    "path_B": "CogVideoX1.5-5B/a skateboard on the bottom of a surfboard, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "an orange on the bottom of a carrot, front view-0.mp4",
+    "path_A": "opensora/an orange on the bottom of a carrot, front view-0.mp4",
+    "path_B": "modelscope/an orange on the bottom of a carrot, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a clock on the left of a vase, front view-0.mp4",
+    "path_A": "TF-T2V/a clock on the left of a vase, front view-0.mp4",
+    "path_B": "LTX-Video (5s 768\u00d7512)/a clock on the left of a vase, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "Turtle swimming in ocean.-4.mp4",
+    "path_A": "videocrafter/Turtle swimming in ocean.-4.mp4",
+    "path_B": "EasyAnimateV5.1/Turtle swimming in ocean.-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a laptop and a remote-1.mp4",
+    "path_A": "Luma/a laptop and a remote-1.mp4",
+    "path_B": "videocrafter-1/a laptop and a remote-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is crawling baby-1.mp4",
+    "path_A": "EasyAnimateV5.1/A person is crawling baby-1.mp4",
+    "path_B": "HunYuanVideo/A person is crawling baby-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, pan left-2.mp4",
+    "path_A": "EasyAnimateV5.1/A panda drinking coffee in a cafe in Paris, pan left-2.mp4",
+    "path_B": "Kling/A panda drinking coffee in a cafe in Paris, pan left-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a parking meter-1.mp4",
+    "path_A": "Pika-1/a parking meter-1.mp4",
+    "path_B": "AnimateLCM/a parking meter-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "broccoli and a backpack-3.mp4",
+    "path_A": "STIV (Apple)/broccoli and a backpack-3.mp4",
+    "path_B": "Pika-1/broccoli and a backpack-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a baseball bat-4.mp4",
+    "path_A": "videocrafter-09/a baseball bat-4.mp4",
+    "path_B": "pika-all-dimension/a baseball bat-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a bear on the right of a zebra, front view-2.mp4",
+    "path_A": "Sora/a bear on the right of a zebra, front view-2.mp4",
+    "path_B": "Wanx 2.1/a bear on the right of a zebra, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a sheep-2.mp4",
+    "path_A": "OpenSorav1-1/a sheep-2.mp4",
+    "path_B": "MiracleVision V5/a sheep-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a train crossing over a tall bridge-0.mp4",
+    "path_A": "CausVid_24fps/a train crossing over a tall bridge-0.mp4",
+    "path_B": "OpenSoraPlanv1-1/a train crossing over a tall bridge-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a microwave and a frisbee-3.mp4",
+    "path_A": "CausVid_24fps/a microwave and a frisbee-3.mp4",
+    "path_B": "Luma/a microwave and a frisbee-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "pharmacy-3.mp4",
+    "path_A": "modelscope/pharmacy-3.mp4",
+    "path_B": "CogVideoX1.5-5B/pharmacy-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, pan left-4.mp4",
+    "path_A": "CogVideoX1.5-5B/a shark is swimming in the ocean, pan left-4.mp4",
+    "path_B": "Mochi-1/a shark is swimming in the ocean, pan left-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+    "path_A": "Wanx 2.1/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+    "path_B": "STIV (Apple)/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, watercolor painting-2.mp4",
+    "path_A": "InstructVideo(ModelScope)/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, watercolor painting-2.mp4",
+    "path_B": "OpenSoraPlanv1-1/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, watercolor painting-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a person swimming in ocean-4.mp4",
+    "path_A": "OpenSoraPlanv1-1/a person swimming in ocean-4.mp4",
+    "path_B": "CogVideoX1.5-5B/a person swimming in ocean-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-2.mp4",
+    "path_A": "Mira-384/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-2.mp4",
+    "path_B": "HunYuanVideo/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+    "path_A": "CausVid_24fps/Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+    "path_B": "OpenSorav1-1/Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a car and a train-0.mp4",
+    "path_A": "Mira-384/a car and a train-0.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a car and a train-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset-1.mp4",
+    "path_A": "OpenSoraPlanv1-3/A cute happy Corgi playing in park, sunset-1.mp4",
+    "path_B": "Gen-3/A cute happy Corgi playing in park, sunset-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of an apple-4.mp4",
+    "path_A": "pika-all-dimension/A tranquil tableau of an apple-4.mp4",
+    "path_B": "OpenSoraPlanv1-3/A tranquil tableau of an apple-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a sandwich on the top of an orange, front view-3.mp4",
+    "path_A": "lavie/a sandwich on the top of an orange, front view-3.mp4",
+    "path_B": "Gen-3/a sandwich on the top of an orange, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a stop sign and a parking meter-4.mp4",
+    "path_A": "videocrafter/a stop sign and a parking meter-4.mp4",
+    "path_B": "Gen-3/a stop sign and a parking meter-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a bird building a nest from twigs and leaves-4.mp4",
+    "path_A": "videocrafter-1/a bird building a nest from twigs and leaves-4.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a bird building a nest from twigs and leaves-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a pizza on the top of a donut, front view-0.mp4",
+    "path_A": "InstructVideo(ModelScope)/a pizza on the top of a donut, front view-0.mp4",
+    "path_B": "STIV (Apple)/a pizza on the top of a donut, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a kite and a baseball bat-2.mp4",
+    "path_A": "Gen-2/a kite and a baseball bat-2.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a kite and a baseball bat-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is doing aerobics-4.mp4",
+    "path_A": "modelscope/A person is doing aerobics-4.mp4",
+    "path_B": "Gen-3/A person is doing aerobics-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a purple clock-0.mp4",
+    "path_A": "Sora/a purple clock-0.mp4",
+    "path_B": "Wanx 2.1/a purple clock-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "staircase-4.mp4",
+    "path_A": "Sora/staircase-4.mp4",
+    "path_B": "lavie/staircase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a bowl on the kitchen counter-3.mp4",
+    "path_A": "Show-1/A tranquil tableau of a bowl on the kitchen counter-3.mp4",
+    "path_B": "MiniMax-Video-01/A tranquil tableau of a bowl on the kitchen counter-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a truck stuck in traffic during rush hour-1.mp4",
+    "path_A": "WanX2.1(2025-02-24)/a truck stuck in traffic during rush hour-1.mp4",
+    "path_B": "Jimeng/a truck stuck in traffic during rush hour-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, black and white-1.mp4",
+    "path_A": "Mochi-1/a shark is swimming in the ocean, black and white-1.mp4",
+    "path_B": "cogvideo/a shark is swimming in the ocean, black and white-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, racking focus-2.mp4",
+    "path_A": "Sora/Gwen Stacy reading a book, racking focus-2.mp4",
+    "path_B": "WanX2.1(2025-02-24)/Gwen Stacy reading a book, racking focus-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-2.mp4",
+    "path_A": "InstructVideo(ModelScope)/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-2.mp4",
+    "path_B": "CogVideoX-5B(SAT)/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "cemetery-2.mp4",
+    "path_A": "OpenSoraV1-2(8s)/cemetery-2.mp4",
+    "path_B": "AnimateLCM/cemetery-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a motorcycle-1.mp4",
+    "path_A": "OpenSoraPlanv1-3/a motorcycle-1.mp4",
+    "path_B": "Luma/a motorcycle-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a red umbrella-4.mp4",
+    "path_A": "WanX2.1(2025-02-24)/a red umbrella-4.mp4",
+    "path_B": "Lavie_interpolation/a red umbrella-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A person is trimming or shaving beard-2.mp4",
+    "path_A": "Vchitect-2.0-2B/A person is trimming or shaving beard-2.mp4",
+    "path_B": "Wanx 2.1/A person is trimming or shaving beard-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a truck accelerating to gain speed-0.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a truck accelerating to gain speed-0.mp4",
+    "path_B": "Kling/a truck accelerating to gain speed-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4",
+    "path_A": "HunYuanVideo/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4",
+    "path_B": "TF-T2V/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "an orange bird-1.mp4",
+    "path_A": "Pika-1/an orange bird-1.mp4",
+    "path_B": "OpenSorav1-1/an orange bird-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a sandwich and a book-3.mp4",
+    "path_A": "vidu/a sandwich and a book-3.mp4",
+    "path_B": "TF-T2V/a sandwich and a book-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A raccoon is playing the electronic guitar.-3.mp4",
+    "path_A": "Sora/A raccoon is playing the electronic guitar.-3.mp4",
+    "path_B": "WanX2.1(2025-02-24)/A raccoon is playing the electronic guitar.-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, zoom in-4.mp4",
+    "path_A": "RepVideo/A cute happy Corgi playing in park, sunset, zoom in-4.mp4",
+    "path_B": "CogVideoX-2B(SAT)/A cute happy Corgi playing in park, sunset, zoom in-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-1.mp4",
+    "path_A": "Gen-2/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-1.mp4",
+    "path_B": "Pika-1/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4",
+    "path_A": "CogVideoX-5B(SAT)/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4",
+    "path_B": "Gen-3/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "an orange and a clock-1.mp4",
+    "path_A": "HiGen/an orange and a clock-1.mp4",
+    "path_B": "pika-all-dimension/an orange and a clock-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A squirrel eating a burger.-1.mp4",
+    "path_A": "Mira-384/A squirrel eating a burger.-1.mp4",
+    "path_B": "MiniMax-Video-01/A squirrel eating a burger.-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "an orange chair-1.mp4",
+    "path_A": "Mira-384/an orange chair-1.mp4",
+    "path_B": "opensora/an orange chair-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A person is sailing-0.mp4",
+    "path_A": "Pika-1/A person is sailing-0.mp4",
+    "path_B": "Kling/A person is sailing-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a toaster-1.mp4",
+    "path_A": "CogVideoX-5B(SAT)/a toaster-1.mp4",
+    "path_B": "lavie/a toaster-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a bird soaring gracefully in the sky-2.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a bird soaring gracefully in the sky-2.mp4",
+    "path_B": "Jimeng/a bird soaring gracefully in the sky-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a stop sign and a parking meter-3.mp4",
+    "path_A": "CausVid_24fps/a stop sign and a parking meter-3.mp4",
+    "path_B": "pika-all-dimension/a stop sign and a parking meter-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a pink car-4.mp4",
+    "path_A": "OpenSoraV1-2(8s)/a pink car-4.mp4",
+    "path_B": "Gen-2/a pink car-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a fork-3.mp4",
+    "path_A": "videocrafter-2/a fork-3.mp4",
+    "path_B": "videocrafter-1/a fork-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4",
+    "path_B": "Wanx 2.1/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "an orange and a clock-1.mp4",
+    "path_A": "OpenSoraPlanv1-3/an orange and a clock-1.mp4",
+    "path_B": "HunYuanVideo/an orange and a clock-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is driving car-0.mp4",
+    "path_A": "CausVid/A person is driving car-0.mp4",
+    "path_B": "Vchitect-2.0-2B/A person is driving car-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "an airplane on the left of a train, front view-1.mp4",
+    "path_A": "IPOC/an airplane on the left of a train, front view-1.mp4",
+    "path_B": "Jimeng/an airplane on the left of a train, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "fountain-0.mp4",
+    "path_A": "Luma/fountain-0.mp4",
+    "path_B": "OpenSoraV1-2(8s)/fountain-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a train crossing over a tall bridge-2.mp4",
+    "path_A": "Mochi-1/a train crossing over a tall bridge-2.mp4",
+    "path_B": "MiracleVision V5/a train crossing over a tall bridge-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a wine glass-4.mp4",
+    "path_A": "HunYuanVideo/a wine glass-4.mp4",
+    "path_B": "AnimateDiff-V1/a wine glass-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a knife and a tv-3.mp4",
+    "path_A": "AnimateDiff-V1/a knife and a tv-3.mp4",
+    "path_B": "OpenSoraPlanv1-3/a knife and a tv-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a microwave on the bottom of an oven, front view-1.mp4",
+    "path_A": "lavie/a microwave on the bottom of an oven, front view-1.mp4",
+    "path_B": "cogvideo/a microwave on the bottom of an oven, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a pink bowl-4.mp4",
+    "path_A": "videocrafter-1/a pink bowl-4.mp4",
+    "path_B": "EasyAnimateV5.1/a pink bowl-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a drone flying over a snowy forest.-3.mp4",
+    "path_A": "CogVideoX1.5-5B/a drone flying over a snowy forest.-3.mp4",
+    "path_B": "Jimeng/a drone flying over a snowy forest.-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A person is climbing a rope-3.mp4",
+    "path_A": "Latte-1/A person is climbing a rope-3.mp4",
+    "path_B": "Luma/A person is climbing a rope-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a hair drier-3.mp4",
+    "path_A": "cogvideo/a hair drier-3.mp4",
+    "path_B": "OpenSoraV1-2(8s)/a hair drier-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "harbor-4.mp4",
+    "path_A": "videocrafter-09/harbor-4.mp4",
+    "path_B": "Jimeng/harbor-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a bear-0.mp4",
+    "path_A": "IPOC/a bear-0.mp4",
+    "path_B": "Mira-384/a bear-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a train accelerating to gain speed-4.mp4",
+    "path_A": "videocrafter-09/a train accelerating to gain speed-4.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a train accelerating to gain speed-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A corgi is playing drum kit.-2.mp4",
+    "path_A": "videocrafter-09/A corgi is playing drum kit.-2.mp4",
+    "path_B": "CogVideoX-5B(SAT)/A corgi is playing drum kit.-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a drone flying over a snowy forest.-1.mp4",
+    "path_A": "WanX2.1(2025-02-24)/a drone flying over a snowy forest.-1.mp4",
+    "path_B": "CogVideoX-5B (Diffusers)/a drone flying over a snowy forest.-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a horse and a sheep-0.mp4",
+    "path_A": "videocrafter-2/a horse and a sheep-0.mp4",
+    "path_B": "Kling/a horse and a sheep-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "an orange on the bottom of a carrot, front view-3.mp4",
+    "path_A": "Wanx 2.1/an orange on the bottom of a carrot, front view-3.mp4",
+    "path_B": "Sora/an orange on the bottom of a carrot, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4",
+    "path_A": "videocrafter-2/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4",
+    "path_B": "WanX2.1(2025-02-24)/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "An artist brush painting on a canvas close up.-2.mp4",
+    "path_A": "Latte-1/An artist brush painting on a canvas close up.-2.mp4",
+    "path_B": "Jimeng/An artist brush painting on a canvas close up.-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a vase-3.mp4",
+    "path_A": "CogVideoX-5B (Diffusers)/a vase-3.mp4",
+    "path_B": "Gen-2/a vase-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a baseball glove and a skateboard-3.mp4",
+    "path_A": "HunYuanVideo/a baseball glove and a skateboard-3.mp4",
+    "path_B": "OpenSoraPlanv1-3/a baseball glove and a skateboard-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4",
+    "path_A": "AnimateLCM/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4",
+    "path_B": "EasyAnimateV5.1/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a pizza-3.mp4",
+    "path_A": "Open-Sora-2.0/a pizza-3.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a pizza-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, racking focus-1.mp4",
+    "path_A": "STIV (Apple)/A cute happy Corgi playing in park, sunset, racking focus-1.mp4",
+    "path_B": "MiracleVision V5/A cute happy Corgi playing in park, sunset, racking focus-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a cup and a couch-1.mp4",
+    "path_A": "opensora/a cup and a couch-1.mp4",
+    "path_B": "Gen-2/a cup and a couch-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4",
+    "path_A": "videocrafter-1/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4",
+    "path_B": "CogVideoX-5B (Diffusers)/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a microwave on the bottom of an oven, front view-0.mp4",
+    "path_A": "lavie/a microwave on the bottom of an oven, front view-0.mp4",
+    "path_B": "CogVideoX-2B (Diffusers)/a microwave on the bottom of an oven, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "ocean-0.mp4",
+    "path_A": "Pika-1/ocean-0.mp4",
+    "path_B": "Gen-2/ocean-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A person is strumming guitar-0.mp4",
+    "path_A": "TF-T2V/A person is strumming guitar-0.mp4",
+    "path_B": "Mira-384/A person is strumming guitar-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "A cute raccoon playing guitar in a boat on the ocean-1.mp4",
+    "path_A": "Luma/A cute raccoon playing guitar in a boat on the ocean-1.mp4",
+    "path_B": "AnimateLCM/A cute raccoon playing guitar in a boat on the ocean-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a green vase-0.mp4",
+    "path_A": "HunYuanVideo/a green vase-0.mp4",
+    "path_B": "WanX2.1(2025-02-24)/a green vase-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a pink bicycle-2.mp4",
+    "path_A": "Gen-3/a pink bicycle-2.mp4",
+    "path_B": "Luma/a pink bicycle-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A person is playing controller-3.mp4",
+    "path_A": "OpenSoraV1-2(8s)/A person is playing controller-3.mp4",
+    "path_B": "vidu/A person is playing controller-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a white cat-4.mp4",
+    "path_A": "CogVideoX1.5-5B/a white cat-4.mp4",
+    "path_B": "Wanx 2.1/a white cat-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a black vase-2.mp4",
+    "path_A": "CausVid/a black vase-2.mp4",
+    "path_B": "Mira-384/a black vase-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "valley-4.mp4",
+    "path_A": "CausVid/valley-4.mp4",
+    "path_B": "WanX2.1(2025-02-24)/valley-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "None",
+    "path_A": "Mochi-1/None",
+    "path_B": "CausVid/None",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of bar-3.mp4",
+    "path_A": "WanX2.1(2025-02-24)/A tranquil tableau of bar-3.mp4",
+    "path_B": "Show-1/A tranquil tableau of bar-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "an elephant running to join a herd of its kind-4.mp4",
+    "path_A": "TF-T2V/an elephant running to join a herd of its kind-4.mp4",
+    "path_B": "Gen-3/an elephant running to join a herd of its kind-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-3.mp4",
+    "path_A": "IPOC/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-3.mp4",
+    "path_B": "AnimateDiff-V1/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a horse running to join a herd of its kind-3.mp4",
+    "path_A": "lavie/a horse running to join a herd of its kind-3.mp4",
+    "path_B": "MiniMax-Video-01/a horse running to join a herd of its kind-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a sheep on the left of a cow, front view-1.mp4",
+    "path_A": "HunYuanVideo/a sheep on the left of a cow, front view-1.mp4",
+    "path_B": "MiracleVision V5/a sheep on the left of a cow, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "A",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a fire hydrant and a stop sign-3.mp4",
+    "path_A": "videocrafter-2/a fire hydrant and a stop sign-3.mp4",
+    "path_B": "OpenSoraPlanv1-3/a fire hydrant and a stop sign-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a truck stuck in traffic during rush hour-1.mp4",
+    "path_A": "Sora/a truck stuck in traffic during rush hour-1.mp4",
+    "path_B": "InstructVideo(ModelScope)/a truck stuck in traffic during rush hour-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a zebra bending down to drink water from a river-4.mp4",
+    "path_A": "Luma/a zebra bending down to drink water from a river-4.mp4",
+    "path_B": "Show-1/a zebra bending down to drink water from a river-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "The bund Shanghai, oil painting-1.mp4",
+    "path_A": "InstructVideo(ModelScope)/The bund Shanghai, oil painting-1.mp4",
+    "path_B": "Vchitect-2.0-2B+VEnhancer/The bund Shanghai, oil painting-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, zoom out-0.mp4",
+    "path_A": "Open-Sora-2.0/A panda drinking coffee in a cafe in Paris, zoom out-0.mp4",
+    "path_B": "wanx-1.3B/A panda drinking coffee in a cafe in Paris, zoom out-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a dog running happily-1.mp4",
+    "path_A": "Lavie_interpolation/a dog running happily-1.mp4",
+    "path_B": "Sora/a dog running happily-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "restaurant-1.mp4",
+    "path_A": "Wanx 2.1/restaurant-1.mp4",
+    "path_B": "Lavie_interpolation/restaurant-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-2.mp4",
+    "path_A": "videocrafter-09/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-2.mp4",
+    "path_B": "Jimeng/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, with an intense shaking effect-4.mp4",
+    "path_A": "AnimateDiff-V2/Gwen Stacy reading a book, with an intense shaking effect-4.mp4",
+    "path_B": "CogVideoX-2B (Diffusers)/Gwen Stacy reading a book, with an intense shaking effect-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "The bund Shanghai, in cyberpunk style-1.mp4",
+    "path_A": "CogVideoX-2B (Diffusers)/The bund Shanghai, in cyberpunk style-1.mp4",
+    "path_B": "Mira-384/The bund Shanghai, in cyberpunk style-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A car moving slowly on an empty street, rainy evening-1.mp4",
+    "path_A": "OpenSorav1-1/A car moving slowly on an empty street, rainy evening-1.mp4",
+    "path_B": "lavie/A car moving slowly on an empty street, rainy evening-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a boat and an airplane-1.mp4",
+    "path_A": "pika-all-dimension/a boat and an airplane-1.mp4",
+    "path_B": "OpenSoraPlanv1-3/a boat and an airplane-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a black umbrella-3.mp4",
+    "path_A": "CausVid_24fps/a black umbrella-3.mp4",
+    "path_B": "OpenSoraPlan1-2/a black umbrella-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a pink umbrella-0.mp4",
+    "path_A": "OpenSoraPlanv1-1/a pink umbrella-0.mp4",
+    "path_B": "Pika-1/a pink umbrella-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "barn-3.mp4",
+    "path_A": "Show-1/barn-3.mp4",
+    "path_B": "CogVideoX-2B (Diffusers)/barn-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, pan right-3.mp4",
+    "path_A": "CogVideoX-5B (Diffusers)/a shark is swimming in the ocean, pan right-3.mp4",
+    "path_B": "CausVid/a shark is swimming in the ocean, pan right-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a pizza-1.mp4",
+    "path_A": "MiracleVision V5/a pizza-1.mp4",
+    "path_B": "Jimeng/a pizza-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "laboratory-2.mp4",
+    "path_A": "OpenSoraPlan1-2/laboratory-2.mp4",
+    "path_B": "vidu/laboratory-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A person is ironing-0.mp4",
+    "path_A": "WanX2.1(2025-02-24)/A person is ironing-0.mp4",
+    "path_B": "AnimateDiff-V2/A person is ironing-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a green car-1.mp4",
+    "path_A": "MiniMax-Video-01/a green car-1.mp4",
+    "path_B": "modelscope/a green car-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a suitcase-4.mp4",
+    "path_A": "Sora/a suitcase-4.mp4",
+    "path_B": "IPOC/a suitcase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a wine glass on the right of a cup, front view-2.mp4",
+    "path_A": "Gen-2/a wine glass on the right of a cup, front view-2.mp4",
+    "path_B": "AnimateDiff-V1/a wine glass on the right of a cup, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A shark swimming in clear Caribbean ocean-2.mp4",
+    "path_A": "OpenSoraV1-2(8s)/A shark swimming in clear Caribbean ocean-2.mp4",
+    "path_B": "Sora/A shark swimming in clear Caribbean ocean-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "A",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a bird building a nest from twigs and leaves-2.mp4",
+    "path_A": "Mochi-1/a bird building a nest from twigs and leaves-2.mp4",
+    "path_B": "Jimeng/a bird building a nest from twigs and leaves-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "beach-0.mp4",
+    "path_A": "Mochi-1/beach-0.mp4",
+    "path_B": "Open-Sora-2.0/beach-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "basement-1.mp4",
+    "path_A": "TF-T2V/basement-1.mp4",
+    "path_B": "MiracleVision V5/basement-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4",
+    "path_A": "AnimateDiff-V2/A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4",
+    "path_B": "OpenSorav1-1/A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a giraffe on the right of a bird, front view-2.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a giraffe on the right of a bird, front view-2.mp4",
+    "path_B": "OpenSoraV1-2(8s)/a giraffe on the right of a bird, front view-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a purple suitcase-3.mp4",
+    "path_A": "MiracleVision V5/a purple suitcase-3.mp4",
+    "path_B": "Open-Sora 2.0 (2025-03-18)/a purple suitcase-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A person is kissing-3.mp4",
+    "path_A": "STIV (Apple)/A person is kissing-3.mp4",
+    "path_B": "Open-Sora-2.0/A person is kissing-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a snowboard and a sports ball-4.mp4",
+    "path_A": "WanX2.1(2025-02-24)/a snowboard and a sports ball-4.mp4",
+    "path_B": "vidu/a snowboard and a sports ball-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "an orange suitcase-4.mp4",
+    "path_A": "Sora/an orange suitcase-4.mp4",
+    "path_B": "HunYuanVideo/an orange suitcase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a clock on the left of a vase, front view-3.mp4",
+    "path_A": "Open-Sora 2.0 (2025-03-18)/a clock on the left of a vase, front view-3.mp4",
+    "path_B": "videocrafter-09/a clock on the left of a vase, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A person is trimming or shaving beard-2.mp4",
+    "path_A": "CausVid_24fps/A person is trimming or shaving beard-2.mp4",
+    "path_B": "opensora/A person is trimming or shaving beard-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a knife and a tv-4.mp4",
+    "path_A": "Luma/a knife and a tv-4.mp4",
+    "path_B": "IPOC/a knife and a tv-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a purple clock-4.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/a purple clock-4.mp4",
+    "path_B": "vidu/a purple clock-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, pixel art-1.mp4",
+    "path_A": "HiGen/A cute happy Corgi playing in park, sunset, pixel art-1.mp4",
+    "path_B": "IPOC/A cute happy Corgi playing in park, sunset, pixel art-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "forest road-2.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/forest road-2.mp4",
+    "path_B": "Latte-1/forest road-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a cat on the right of a dog, front view-4.mp4",
+    "path_A": "Jimeng/a cat on the right of a dog, front view-4.mp4",
+    "path_B": "opensora/a cat on the right of a dog, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a sink-4.mp4",
+    "path_A": "Pika-1/a sink-4.mp4",
+    "path_B": "Mochi-1/a sink-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a cat on the right of a dog, front view-4.mp4",
+    "path_A": "CogVideoX1.5-5B/a cat on the right of a dog, front view-4.mp4",
+    "path_B": "AccVideo/a cat on the right of a dog, front view-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a teddy bear on the right of a potted plant, front view-0.mp4",
+    "path_A": "Sora/a teddy bear on the right of a potted plant, front view-0.mp4",
+    "path_B": "AnimateDiff-V1/a teddy bear on the right of a potted plant, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a truck on the right of a bicycle, front view-3.mp4",
+    "path_A": "LTX-Video (5s 768\u00d7512)/a truck on the right of a bicycle, front view-3.mp4",
+    "path_B": "stepvideo-t2v/a truck on the right of a bicycle, front view-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, with an intense shaking effect-1.mp4",
+    "path_A": "InstructVideo(ModelScope)/a shark is swimming in the ocean, with an intense shaking effect-1.mp4",
+    "path_B": "CogVideoX1.5-5B/a shark is swimming in the ocean, with an intense shaking effect-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a car and a train-2.mp4",
+    "path_A": "OpenSoraPlan1-2/a car and a train-2.mp4",
+    "path_B": "Gen-3/a car and a train-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "A",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "a clock-2.mp4",
+    "path_A": "Jimeng/a clock-2.mp4",
+    "path_B": "OpenSoraPlan1-2/a clock-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a hair drier and a toothbrush-4.mp4",
+    "path_A": "videocrafter-1/a hair drier and a toothbrush-4.mp4",
+    "path_B": "CausVid/a hair drier and a toothbrush-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "a carrot-4.mp4",
+    "path_A": "MiracleVision V5/a carrot-4.mp4",
+    "path_B": "InstructVideo(ModelScope)/a carrot-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "In a still frame, a stop sign-4.mp4",
+    "path_A": "MiracleVision V5/In a still frame, a stop sign-4.mp4",
+    "path_B": "CausVid_24fps/In a still frame, a stop sign-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "A",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "Two pandas discussing an academic paper.-2.mp4",
+    "path_A": "WanX2.1(2025-02-24)/Two pandas discussing an academic paper.-2.mp4",
+    "path_B": "CogVideoX1.5-5B/Two pandas discussing an academic paper.-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a cat and a dog-0.mp4",
+    "path_A": "CogVideoX-5B (Diffusers)/a cat and a dog-0.mp4",
+    "path_B": "HunYuanVideo/a cat and a dog-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "B",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is rock scissors paper-3.mp4",
+    "path_A": "opensora/A person is rock scissors paper-3.mp4",
+    "path_B": "Sora/A person is rock scissors paper-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "an orange umbrella-0.mp4",
+    "path_A": "HunYuanVideo/an orange umbrella-0.mp4",
+    "path_B": "Mochi-1/an orange umbrella-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, black and white-4.mp4",
+    "path_A": "HunYuanVideo/A panda drinking coffee in a cafe in Paris, black and white-4.mp4",
+    "path_B": "Sora/A panda drinking coffee in a cafe in Paris, black and white-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "an airplane-2.mp4",
+    "path_A": "Jimeng/an airplane-2.mp4",
+    "path_B": "OpenSorav1-1/an airplane-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A person is rock climbing-2.mp4",
+    "path_A": "Sora/A person is rock climbing-2.mp4",
+    "path_B": "videocrafter-2/A person is rock climbing-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a potted plant and a tv-4.mp4",
+    "path_A": "HiGen/a potted plant and a tv-4.mp4",
+    "path_B": "videocrafter-2/a potted plant and a tv-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "multiple_objects": "A",
+    "MOS_A_multiple_objects": 0.0,
+    "MOS_B_multiple_objects": 0.0
+  },
+  {
+    "prompt": "A person is bandaging-1.mp4",
+    "path_A": "opensora/A person is bandaging-1.mp4",
+    "path_B": "InstructVideo(ModelScope)/A person is bandaging-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, oil painting-4.mp4",
+    "path_A": "vidu/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, oil painting-4.mp4",
+    "path_B": "MiniMax-Video-01/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, oil painting-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, in super slow motion-2.mp4",
+    "path_A": "IPOC/a shark is swimming in the ocean, in super slow motion-2.mp4",
+    "path_B": "Vidu Q1 (2025-04-17)/a shark is swimming in the ocean, in super slow motion-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a cat grooming itself meticulously with its tongue-3.mp4",
+    "path_A": "MiracleVision V5/a cat grooming itself meticulously with its tongue-3.mp4",
+    "path_B": "videocrafter-1/a cat grooming itself meticulously with its tongue-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a stop sign on the left of a parking meter, front view-1.mp4",
+    "path_A": "Wan2.1-T2V-1.3B/a stop sign on the left of a parking meter, front view-1.mp4",
+    "path_B": "Wanx 2.1/a stop sign on the left of a parking meter, front view-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "A panda standing on a surfboard in the ocean in sunset.-3.mp4",
+    "path_A": "Luma/A panda standing on a surfboard in the ocean in sunset.-3.mp4",
+    "path_B": "Gen-2/A panda standing on a surfboard in the ocean in sunset.-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "a person giving a presentation to a room full of colleagues-0.mp4",
+    "path_A": "Latte-1/a person giving a presentation to a room full of colleagues-0.mp4",
+    "path_B": "lavie/a person giving a presentation to a room full of colleagues-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "palace-4.mp4",
+    "path_A": "Sora/palace-4.mp4",
+    "path_B": "Pika-1/palace-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "scene": "B",
+    "MOS_A_scene": 0.0,
+    "MOS_B_scene": 0.0
+  },
+  {
+    "prompt": "A person is canoeing or kayaking-2.mp4",
+    "path_A": "IPOC(2025-04-14)/A person is canoeing or kayaking-2.mp4",
+    "path_B": "Kling/A person is canoeing or kayaking-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "A",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a horse taking a peaceful walk-1.mp4",
+    "path_A": "Wanx 2.1/a horse taking a peaceful walk-1.mp4",
+    "path_B": "Gen-2/a horse taking a peaceful walk-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "skis-1.mp4",
+    "path_A": "Wan2.1-T2V-1.3B/skis-1.mp4",
+    "path_B": "Show-1/skis-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "B",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4",
+    "path_A": "lavie/A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4",
+    "path_B": "AnimateDiff-V2/A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "B",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, animated style-2.mp4",
+    "path_A": "Luma/A panda drinking coffee in a cafe in Paris, animated style-2.mp4",
+    "path_B": "EasyAnimateV5.1/A panda drinking coffee in a cafe in Paris, animated style-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "A teddy bear is playing drum kit in NYC Times Square.-3.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/A teddy bear is playing drum kit in NYC Times Square.-3.mp4",
+    "path_B": "Show-1/A teddy bear is playing drum kit in NYC Times Square.-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  },
+  {
+    "prompt": "A person is crying-4.mp4",
+    "path_A": "OpenSoraPlan1-2/A person is crying-4.mp4",
+    "path_B": "modelscope/A person is crying-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-2.mp4",
+    "path_A": "AccVideo/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-2.mp4",
+    "path_B": "OpenSorav1-1/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+    "path_A": "Vidu Q1 (2025-04-17)/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+    "path_B": "videocrafter/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a purple suitcase-4.mp4",
+    "path_A": "CogVideoX-2B(SAT)/a purple suitcase-4.mp4",
+    "path_B": "OpenSoraPlanv1-3/a purple suitcase-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a giraffe taking a peaceful walk-1.mp4",
+    "path_A": "OpenSorav1-1/a giraffe taking a peaceful walk-1.mp4",
+    "path_B": "Lavie_interpolation/a giraffe taking a peaceful walk-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-3.mp4",
+    "path_A": "CogVideoX1.5-5B/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-3.mp4",
+    "path_B": "Open-Sora-2.0/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "A",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a dog playing in park-4.mp4",
+    "path_A": "AnimateLCM/a dog playing in park-4.mp4",
+    "path_B": "HunYuanVideo/a dog playing in park-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "A",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "a giraffe on the right of a bird, front view-0.mp4",
+    "path_A": "Sora/a giraffe on the right of a bird, front view-0.mp4",
+    "path_B": "AnimateLCM/a giraffe on the right of a bird, front view-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "spatial_relationship": "B",
+    "MOS_A_spatial_relationship": 0.0,
+    "MOS_B_spatial_relationship": 0.0
+  },
+  {
+    "prompt": "a bird-1.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/a bird-1.mp4",
+    "path_B": "Mochi-1/a bird-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "a handbag-1.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/a handbag-1.mp4",
+    "path_B": "Vidu Q1 (2025-04-17)/a handbag-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4",
+    "path_A": "lavie/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4",
+    "path_B": "HunYuanVideo/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-0.mp4",
+    "path_A": "IPOC/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-0.mp4",
+    "path_B": "AccVideo/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_flickering": "B",
+    "MOS_A_temporal_flickering": 0.0,
+    "MOS_B_temporal_flickering": 0.0
+  },
+  {
+    "prompt": "a tie-2.mp4",
+    "path_A": "pika-all-dimension/a tie-2.mp4",
+    "path_B": "HiGen/a tie-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A person is shaking hands-0.mp4",
+    "path_A": "Mochi-1/A person is shaking hands-0.mp4",
+    "path_B": "videocrafter-1/A person is shaking hands-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a blue chair-0.mp4",
+    "path_A": "Jimeng/a blue chair-0.mp4",
+    "path_B": "OpenSoraPlanv1-3/a blue chair-0.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, tilt down-3.mp4",
+    "path_A": "Vchitect-2.0-2B+VEnhancer/A cute happy Corgi playing in park, sunset, tilt down-3.mp4",
+    "path_B": "Wan2.1-T2V-1.3B (2025-05-03)/A cute happy Corgi playing in park, sunset, tilt down-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "temporal_style": "A",
+    "MOS_A_temporal_style": 0.0,
+    "MOS_B_temporal_style": 0.0
+  },
+  {
+    "prompt": "a white bowl-2.mp4",
+    "path_A": "HiGen/a white bowl-2.mp4",
+    "path_B": "Jimeng/a white bowl-2.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a hair drier-4.mp4",
+    "path_A": "cogvideo/a hair drier-4.mp4",
+    "path_B": "Mochi-1/a hair drier-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "object_class": "A",
+    "MOS_A_object_class": 0.0,
+    "MOS_B_object_class": 0.0
+  },
+  {
+    "prompt": "A person is pushing cart-1.mp4",
+    "path_A": "CogVideoX1.5-5B/A person is pushing cart-1.mp4",
+    "path_B": "videocrafter-1/A person is pushing cart-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "human_action": "B",
+    "MOS_A_human_action": 0.0,
+    "MOS_B_human_action": 0.0
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, watercolor painting-3.mp4",
+    "path_A": "Vidu Q1 (2025-04-17)/a shark is swimming in the ocean, watercolor painting-3.mp4",
+    "path_B": "Latte-1/a shark is swimming in the ocean, watercolor painting-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, surrealism style-4.mp4",
+    "path_A": "AnimateDiff-V2/An astronaut flying in space, surrealism style-4.mp4",
+    "path_B": "AnimateLCM/An astronaut flying in space, surrealism style-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "An astronaut flying in space, surrealism style-4.mp4",
+    "path_A": "AnimateDiff-V2/An astronaut flying in space, surrealism style-4.mp4",
+    "path_B": "AnimateLCM/An astronaut flying in space, surrealism style-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "appearance_style": "B",
+    "MOS_A_appearance_style": 0.0,
+    "MOS_B_appearance_style": 0.0
+  },
+  {
+    "prompt": "a yellow car-4.mp4",
+    "path_A": "modelscope/a yellow car-4.mp4",
+    "path_B": "CogVideoX-5B(SAT)/a yellow car-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "A",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a yellow car-1.mp4",
+    "path_A": "Lavie_interpolation/a yellow car-1.mp4",
+    "path_B": "Kling-1.6/a yellow car-1.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "color": "B",
+    "MOS_A_color": 0.0,
+    "MOS_B_color": 0.0
+  },
+  {
+    "prompt": "a bear catching a salmon in its powerful jaws-3.mp4",
+    "path_A": "Kling/a bear catching a salmon in its powerful jaws-3.mp4",
+    "path_B": "videocrafter-09/a bear catching a salmon in its powerful jaws-3.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "subject_consistency": "B",
+    "MOS_A_subject_consistency": 0.0,
+    "MOS_B_subject_consistency": 0.0
+  },
+  {
+    "prompt": "A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4",
+    "path_A": "Jimeng/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4",
+    "path_B": "CogVideoX-5B(SAT)/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4",
+    "num_frames_A": 16,
+    "num_frames_B": 16,
+    "overall_consistency": "B",
+    "MOS_A_overall_consistency": 0.0,
+    "MOS_B_overall_consistency": 0.0
+  }
+]

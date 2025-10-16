@@ -1,0 +1,613 @@
+Pika-1	Gen-3	temporal_flickering	A tranquil tableau of barn-0.mp4	1
+HunYuanVideo	Lavie_interpolation	spatial_relationship	a wine glass on the right of a cup, front view-4.mp4	0
+TF-T2V	HunYuanVideo	temporal_style	A panda drinking coffee in a cafe in Paris, zoom out-1.mp4	1
+videocrafter	Vchitect-2.0-2B	spatial_relationship	a train on the right of a boat, front view-0.mp4	1
+AnimateLCM	lavie	multiple_objects	an umbrella and a handbag-1.mp4	0
+MiniMax-Video-01	modelscope	subject_consistency	a boat accelerating to gain speed-2.mp4	0
+videocrafter-09	OpenSoraPlan1-2	appearance_style	Gwen Stacy reading a book, black and white-1.mp4	1
+AnimateDiff-V1	Latte-1	scene	fountain-3.mp4	0
+HiGen	Wanx 2.1	temporal_flickering	A tranquil tableau of barn-0.mp4	1
+CausVid_24fps	Mochi-1	spatial_relationship	a carrot on the top of a hot dog, front view-1.mp4	0
+Mochi-1	Pika-1	spatial_relationship	an elephant on the left of a bear, front view-4.mp4	0
+videocrafter-1	Mochi-1	spatial_relationship	In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4	1
+videocrafter-1	Mochi-1	spatial_relationship	In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4	1
+Wanx 2.1	lavie	color	a vase and scissors-1.mp4	0
+Show-1	Mochi-1	temporal_style	The bund Shanghai, tilt down-1.mp4	0
+modelscope	Wanx 2.1	human_action	A person is doing aerobics-3.mp4	1
+InstructVideo(ModelScope)	HunYuanVideo	spatial_relationship	a donut on the bottom of broccoli, front view-2.mp4	1
+CogVideoX1.5-5B	lavie	multiple_objects	scissors and a teddy bear-3.mp4	0
+videocrafter-09	videocrafter-1	appearance_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4	1
+opensora	CausVid	subject_consistency	a truck accelerating to gain speed-1.mp4	1
+Gen-2	HunYuanVideo	multiple_objects	a toothbrush and a sink-4.mp4	1
+AnimateDiff-V2	OpenSoraV1-2(8s)	scene	glacier-1.mp4	1
+pika-all-dimension	CausVid_24fps	scene	golf course-2.mp4	1
+HiGen	AnimateDiff-V1	temporal_flickering	a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-4.mp4	1
+HiGen	InstructVideo(ModelScope)	human_action	A person is ice skating-0.mp4	1
+videocrafter-1	Show-1	spatial_relationship	a wine glass on the right of a cup, front view-2.mp4	1
+CausVid	HiGen	human_action	A person is strumming guitar-2.mp4	0
+Vchitect-2.0-2B	OpenSorav1-1	scene	cemetery-4.mp4	0
+videocrafter-1	TF-T2V	appearance_style	A panda drinking coffee in a cafe in Paris, watercolor painting-4.mp4	1
+Pika-1	MiniMax-Video-01	multiple_objects	a keyboard and a cell phone-0.mp4	0
+lavie	opensora	human_action	A person is knitting-2.mp4	0
+videocrafter-09	videocrafter-1	color	a pink chair-0.mp4	1
+HiGen	Lavie_interpolation	multiple_objects	a horse and a sheep-2.mp4	0
+CogVideoX1.5-5B	OpenSoraPlanv1-3	human_action	an ice cream is melting on the table.-1.mp4	0
+Mochi-1	videocrafter-09	subject_consistency	a cat drinking water-4.mp4	0
+modelscope	Pika-1	color	an orange suitcase-0.mp4	1
+HiGen	vidu	color	a pink suitcase-0.mp4	1
+CausVid_24fps	HiGen	subject_consistency	a giraffe taking a peaceful walk-3.mp4	0
+Kling	OpenSorav1-1	temporal_flickering	In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-2.mp4	0
+Mira-384	cogvideo	human_action	A person is rock climbing-3.mp4	0
+AnimateDiff-V2	Vchitect-2.0-2B+VEnhancer	scene	bakery shop-0.mp4	0
+CausVid	vidu	appearance_style	a bus accelerating to gain speed-4.mp4	0
+TF-T2V	OpenSoraPlanv1-3	spatial_relationship	a carrot on the bottom of a hot dog, front view-1.mp4	1
+CausVid_24fps	Jimeng	temporal_flickering	In a still frame, a park bench with a view of the lake-1.mp4	0
+CausVid	TF-T2V	human_action	A person is bungee jumping-4.mp4	0
+CausVid	OpenSoraPlan1-2	subject_consistency	a bus stuck in traffic during rush hour-2.mp4	0
+Latte-1	vidu	temporal_style	An astronaut flying in space, tilt down-2.mp4	1
+AnimateDiff-V2	OpenSoraPlanv1-1	human_action	A person is playing flute-2.mp4	0
+Vchitect-2.0-2B+VEnhancer	Mochi-1	object_class	a kite-4.mp4	1
+OpenSoraPlanv1-1	videocrafter-2	overall_consistency	A polar bear is playing guitar-2.mp4	1
+Vchitect-2.0-2B+VEnhancer	pika-all-dimension	temporal_flickering	A tranquil tableau of a chair-0.mp4	0
+videocrafter-2	modelscope	object_class	a bear-4.mp4	1
+CausVid_24fps	cogvideo	scene	barn-1.mp4	0
+CogVideoX-2B(SAT)	InstructVideo(ModelScope)	object_class	a handbag-1.mp4	0
+Gen-3	InstructVideo(ModelScope)	temporal_flickering	In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-4.mp4	1
+videocrafter-09	Pika-1	color	a pink bird-2.mp4	1
+CogVideoX-2B(SAT)	Mira-384	appearance_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style-4.mp4	0
+InstructVideo(ModelScope)	cogvideo	scene	classroom-2.mp4	1
+Latte-1	CausVid_24fps	color	an orange car-1.mp4	1
+Wanx 2.1	HiGen	subject_consistency	an airplane taking off-3.mp4	0
+OpenSoraV1-2(8s)	videocrafter-09	scene	driveway-2.mp4	0
+videocrafter-2	Latte-1	subject_consistency	a sheep bending down to drink water from a river-1.mp4	1
+OpenSorav1-1	MiniMax-Video-01	temporal_style	A panda drinking coffee in a cafe in Paris, tilt up-2.mp4	1
+TF-T2V	vidu	temporal_flickering	A tranquil tableau of a vintage rocking chair was placed on the porch-4.mp4	1
+OpenSoraPlan1-2	videocrafter-1	object_class	a knife-1.mp4	1
+videocrafter-1	AnimateDiff-V2	color	a purple bird-3.mp4	1
+Lavie_interpolation	HunYuanVideo	appearance_style	An astronaut flying in space, surrealism style-0.mp4	1
+OpenSoraPlanv1-1	AnimateDiff-V2	color	a black cat-3.mp4	1
+CausVid_24fps	Show-1	subject_consistency	a motorcycle slowing down to stop-4.mp4	0
+OpenSoraPlanv1-1	Kling	multiple_objects	a donut and a suitcase-4.mp4	1
+CogVideoX1.5-5B	pika-all-dimension	spatial_relationship	a cup on the left of a fork, front view-4.mp4	0
+InstructVideo(ModelScope)	Mira-384	overall_consistency	A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4	1
+CogVideoX-2B(SAT)	Mochi-1	human_action	A person is pushing cart-1.mp4	0
+AnimateLCM	InstructVideo(ModelScope)	spatial_relationship	a bicycle on the left of a car, front view-4.mp4	0
+Mira-384	Gen-3	scene	outdoor track-4.mp4	1
+OpenSoraV1-2(8s)	Kling	subject_consistency	a cat grooming itself meticulously with its tongue-3.mp4	1
+CausVid_24fps	Pika-1	scene	downtown-0.mp4	0
+AnimateLCM	videocrafter-2	subject_consistency	a bicycle slowing down to stop-4.mp4	0
+Pika-1	OpenSoraPlanv1-1	subject_consistency	a bicycle leaning against a tree-1.mp4	0
+videocrafter	videocrafter-1	color	a red bicycle-1.mp4	1
+modelscope	OpenSoraPlan1-2	human_action	A person is doing laundry-0.mp4	1
+OpenSoraV1-2(8s)	Gen-3	spatial_relationship	a boat on the left of an airplane, front view-1.mp4	1
+CogVideoX-5B(SAT)	CausVid_24fps	temporal_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4	1
+Wanx 2.1	vidu	multiple_objects	a pizza and a tie-1.mp4	0
+Wanx 2.1	HunYuanVideo	scene	bakery shop-2.mp4	0
+Jimeng	Gen-3	temporal_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4	1
+OpenSorav1-1	pika-all-dimension	human_action	A person is running on treadmill-2.mp4	1
+CogVideoX-5B(SAT)	OpenSorav1-1	scene	restaurant-4.mp4	0
+Wanx 2.1	OpenSoraPlanv1-3	object_class	a fire hydrant-0.mp4	0
+videocrafter	LTX-Video (5s 768×512)	temporal_flickering	A tranquil tableau of bathroom-0.mp4	1
+videocrafter	Gen-2	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo-1.mp4	1
+Gen-2	lavie	object_class	a baseball glove-3.mp4	1
+Vchitect-2.0-2B	HiGen	overall_consistency	Pacific coast, carmel by the sea ocean and waves.-0.mp4	1
+HunYuanVideo	lavie	temporal_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4	0
+Vchitect-2.0-2B+VEnhancer	HiGen	appearance_style	An astronaut flying in space, oil painting-1.mp4	0
+Mochi-1	TF-T2V	spatial_relationship	a hot dog on the bottom of a pizza, front view-4.mp4	0
+videocrafter-09	OpenSoraPlanv1-3	spatial_relationship	a hot dog on the bottom of a pizza, front view-4.mp4	1
+HunYuanVideo	pika-all-dimension	temporal_style	A panda drinking coffee in a cafe in Paris, zoom out-1.mp4	0
+Pika-1	opensora	subject_consistency	a person swimming in ocean-4.mp4	0
+AnimateLCM	CogVideoX-2B(SAT)	color	a white suitcase-3.mp4	1
+Vchitect-2.0-2B+VEnhancer	Jimeng	overall_consistency	An astronaut is riding a horse in the space in a photorealistic style.-2.mp4	0
+Kling	CogVideoX-5B(SAT)	color	a purple bowl-3.mp4	0
+AnimateLCM	Wanx 2.1	multiple_objects	a bicycle and an airplane-2.mp4	1
+Gen-3	CausVid	subject_consistency	a dog drinking water-4.mp4	1
+AnimateLCM	opensora	temporal_flickering	A tranquil tableau of a bowl-2.mp4	0
+Pika-1	videocrafter-2	subject_consistency	a train crossing over a tall bridge-1.mp4	1
+Latte-1	CogVideoX-2B(SAT)	subject_consistency	a motorcycle gliding through a snowy field-1.mp4	1
+AnimateDiff-V2	Mochi-1	object_class	a kite-0.mp4	1
+InstructVideo(ModelScope)	modelscope	temporal_flickering	a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-1.mp4	0
+CogVideoX-5B(SAT)	CogVideoX-2B(SAT)	color	a yellow vase-0.mp4	0
+Gen-2	videocrafter	overall_consistency	A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4	0
+lavie	videocrafter-1	appearance_style	A cute happy Corgi playing in park, sunset, Van Gogh style-4.mp4	0
+modelscope	videocrafter-2	temporal_flickering	indoor gymnasium, frozen in time-4.mp4	1
+opensora	CogVideoX-2B(SAT)	color	a red bird-3.mp4	1
+Lavie_interpolation	Jimeng	overall_consistency	Robot dancing in Times Square.-1.mp4	1
+MiniMax-Video-01	Pika-1	temporal_style	A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4	0
+AnimateDiff-V1	CausVid	human_action	A person is getting a haircut-3.mp4	1
+cogvideo	Kling	temporal_flickering	In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-3.mp4	1
+Lavie_interpolation	Mochi-1	color	a purple clock-2.mp4	1
+Mochi-1	Mira-384	temporal_style	a shark is swimming in the ocean, zoom in-3.mp4	0
+opensora	vidu	scene	castle-2.mp4	1
+Pika-1	Show-1	temporal_flickering	static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-4.mp4	0
+CausVid_24fps	OpenSoraPlan1-2	object_class	a spoon-4.mp4	1
+CogVideoX-5B(SAT)	TF-T2V	multiple_objects	a fire hydrant and a stop sign-1.mp4	0
+CogVideoX-5B(SAT)	CausVid	temporal_flickering	In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-1.mp4	1
+Show-1	AnimateLCM	subject_consistency	a bird building a nest from twigs and leaves-2.mp4	1
+CogVideoX-5B(SAT)	pika-all-dimension	object_class	a train-2.mp4	0
+OpenSoraV1-2(8s)	MiniMax-Video-01	human_action	A person is strumming guitar-2.mp4	1
+CausVid	OpenSoraV1-2(8s)	subject_consistency	a horse running to join a herd of its kind-0.mp4	0
+Vchitect-2.0-2B	CogVideoX-2B(SAT)	temporal_flickering	In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-1.mp4	1
+videocrafter-2	CogVideoX1.5-5B	object_class	a vase-3.mp4	0
+Gen-2	pika-all-dimension	subject_consistency	a horse running to join a herd of its kind-4.mp4	1
+Gen-2	Latte-1	color	a green suitcase-4.mp4	1
+LTX-Video (5s 768×512)	modelscope	temporal_style	A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4	1
+videocrafter-09	Mira-384	appearance_style	An astronaut flying in space, surrealism style-2.mp4	1
+videocrafter-2	opensora	human_action	A person is planting trees-2.mp4	0
+CogVideoX-2B(SAT)	OpenSoraPlanv1-3	object_class	a bed-0.mp4	0
+Mochi-1	CausVid	multiple_objects	a toilet and a hair drier-0.mp4	1
+videocrafter-2	MiniMax-Video-01	human_action	A person is trimming or shaving beard-4.mp4	1
+LTX-Video (5s 768×512)	Kling	temporal_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4	1
+TF-T2V	modelscope	overall_consistency	Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4	1
+Mochi-1	vidu	temporal_flickering	A tranquil tableau of bedroom-2.mp4	1
+Mira-384	Gen-2	overall_consistency	A steam train moving on a mountainside-0.mp4	1
+CogVideoX1.5-5B	Mira-384	multiple_objects	a tennis racket and a bottle-0.mp4	0
+OpenSoraPlanv1-1	AnimateDiff-V1	spatial_relationship	a sandwich on the bottom of an orange, front view-4.mp4	1
+Latte-1	CausVid	subject_consistency	a bus accelerating to gain speed-4.mp4	1
+Gen-3	pika-all-dimension	object_class	a stop sign-3.mp4	1
+opensora	InstructVideo(ModelScope)	spatial_relationship	a chair on the left of a couch, front view-3.mp4	0
+Latte-1	CausVid_24fps	subject_consistency	a bear sniffing the air for scents of food-0.mp4	1
+Mochi-1	Gen-3	spatial_relationship	an oven on the bottom of a toaster, front view-3.mp4	1
+Latte-1	vidu	appearance_style	A panda drinking coffee in a cafe in Paris, Van Gogh style-2.mp4	1
+Lavie_interpolation	Pika-1	subject_consistency	a car stuck in traffic during rush hour-1.mp4	1
+Wanx 2.1	lavie	appearance_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, surrealism style-2.mp4	0
+CogVideoX-2B(SAT)	Pika-1	subject_consistency	a zebra taking a peaceful walk-3.mp4	0
+OpenSoraPlanv1-3	vidu	temporal_style	A panda drinking coffee in a cafe in Paris, racking focus-0.mp4	1
+LTX-Video (5s 768×512)	vidu	temporal_flickering	In a still frame, a pear-4.mp4	1
+Show-1	CausVid_24fps	color	a green car-1.mp4	1
+lavie	OpenSoraPlanv1-1	color	a white cat-3.mp4	0
+OpenSoraV1-2(8s)	OpenSorav1-1	color	a black umbrella-1.mp4	0
+OpenSoraPlanv1-1	Show-1	spatial_relationship	a toilet on the left of a hair drier, front view-0.mp4	1
+Vchitect-2.0-2B	OpenSoraV1-2(8s)	spatial_relationship	a teddy bear on the right of a potted plant, front view-1.mp4	0
+videocrafter-09	Jimeng	multiple_objects	a car and a motorcycle-1.mp4	0
+videocrafter	Mira-384	overall_consistency	An animated painting of fluffy white clouds moving in sky.-3.mp4	1
+OpenSoraPlan1-2	Vchitect-2.0-2B+VEnhancer	spatial_relationship	a bicycle on the left of a car, front view-3.mp4	1
+opensora	TF-T2V	human_action	A person is brushing teeth-0.mp4	0
+vidu	videocrafter-1	color	a red car-3.mp4	0
+HiGen	Gen-3	color	a blue bicycle-1.mp4	1
+opensora	HunYuanVideo	spatial_relationship	a bird on the left of a cat, front view-4.mp4	1
+Pika-1	Lavie_interpolation	appearance_style	A beautiful coastal beach in spring, waves lapping on sand, animated style-0.mp4	0
+LTX-Video (5s 768×512)	Mochi-1	appearance_style	A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4	0
+AnimateDiff-V2	Gen-3	object_class	a frisbee-0.mp4	1
+OpenSoraPlanv1-1	OpenSoraPlanv1-3	scene	nursery-0.mp4	1
+CausVid	Vchitect-2.0-2B+VEnhancer	object_class	a bed-1.mp4	0
+videocrafter-09	AnimateDiff-V1	appearance_style	The bund Shanghai, in cyberpunk style-2.mp4	1
+OpenSoraPlanv1-1	Mochi-1	human_action	A person is baby waking up-4.mp4	1
+CausVid_24fps	lavie	appearance_style	An astronaut flying in space, Van Gogh style-1.mp4	0
+lavie	Vchitect-2.0-2B	subject_consistency	a person washing the dishes-3.mp4	1
+OpenSorav1-1	modelscope	appearance_style	A panda drinking coffee in a cafe in Paris, animated style-0.mp4	0
+HiGen	videocrafter-1	appearance_style	The bund Shanghai, pixel art-4.mp4	1
+HiGen	Wanx 2.1	subject_consistency	a motorcycle turning a corner-4.mp4	1
+OpenSoraPlan1-2	Vchitect-2.0-2B	appearance_style	a shark is swimming in the ocean, animated style-4.mp4	-1
+MiniMax-Video-01	OpenSoraPlan1-2	overall_consistency	A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4	0
+AnimateLCM	CausVid	object_class	a bench-4.mp4	1
+Mira-384	Pika-1	scene	office-3.mp4	1
+MiniMax-Video-01	Kling	temporal_style	a zebra taking a peaceful walk-3.mp4	-1
+Wanx 2.1	cogvideo	temporal_style	a shark is swimming in the ocean, pan right-4.mp4	0
+cogvideo	modelscope	overall_consistency	A super robot protecting city-1.mp4	1
+MiniMax-Video-01	OpenSoraPlan1-2	subject_consistency	a person washing the dishes-4.mp4	0
+Wanx 2.1	Vchitect-2.0-2B	appearance_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4	1
+Gen-2	videocrafter-2	appearance_style	a shark is swimming in the ocean, pixel art-4.mp4	1
+CausVid	Vchitect-2.0-2B	human_action	A person is peeling apples-3.mp4	0
+cogvideo	AnimateLCM	subject_consistency	a truck turning a corner-0.mp4	-1
+CausVid_24fps	Vchitect-2.0-2B	overall_consistency	A storm trooper vacuuming the beach.-3.mp4	1
+Vchitect-2.0-2B	Gen-2	human_action	industrial area-0.mp4	1
+Gen-3	LTX-Video (5s 768×512)	subject_consistency	a horse taking a peaceful walk-3.mp4	1
+MiniMax-Video-01	Pika-1	color	a green suitcase-4.mp4	0
+HiGen	Luma	scene	food court-0.mp4	1
+Jimeng	CogVideoX1.5-5B	temporal_style	a shark is swimming in the ocean, zoom in-1.mp4	1
+InstructVideo(ModelScope)	MiniMax-Video-01	human_action	A person is arranging flowers-2.mp4	1
+OpenSoraPlanv1-3	Wanx 2.1	color	a yellow clock-4.mp4	1
+videocrafter-2	HunYuanVideo	subject_consistency	a motorcycle accelerating to gain speed-0.mp4	1
+videocrafter-2	Gen-2	multiple_objects	a snowboard and a sports ball-0.mp4	1
+CausVid	OpenSoraPlan1-2	spatial_relationship	an oven on the top of a toaster, front view-2.mp4	0
+Lavie_interpolation	videocrafter	overall_consistency	A fat rabbit wearing a purple robe walking through a fantasy landscape.-0.mp4	1
+modelscope	AnimateDiff-V2	subject_consistency	a person giving a presentation to a room full of colleagues-0.mp4	-1
+CogVideoX-5B(SAT)	AnimateLCM	subject_consistency	a bird building a nest from twigs and leaves-2.mp4	-1
+Vchitect-2.0-2B	AnimateLCM	subject_consistency	a bicycle leaning against a tree-1.mp4	1
+videocrafter	videocrafter-2	subject_consistency	a person walking in the snowstorm-3.mp4	0
+Wanx 2.1	InstructVideo(ModelScope)	scene	botanical garden-1.mp4	0
+videocrafter	opensora	subject_consistency	a bird building a nest from twigs and leaves-0.mp4	1
+LTX-Video (5s 768×512)	AnimateDiff-V1	subject_consistency	a bus stuck in traffic during rush hour-2.mp4	-1
+Show-1	TF-T2V	spatial_relationship	an oven on the bottom of a toaster, front view-1.mp4	0
+CogVideoX1.5-5B	Gen-2	spatial_relationship	an oven on the bottom of a toaster, front view-2.mp4	0
+videocrafter-09	Show-1	subject_consistency	a truck stuck in traffic during rush hour-4.mp4	1
+Gen-2	Pika-1	human_action	A person is cheerleading-1.mp4	-1
+Kling	Wanx 2.1	multiple_objects	a hair drier and a toothbrush-1.mp4	0
+videocrafter-1	Show-1	scene	junkyard-0.mp4	0
+pika-all-dimension	Mira-384	temporal_style	An astronaut flying in space, pan left-3.mp4	0
+Gen-2	opensora	object_class	an oven-0.mp4	0
+OpenSoraPlanv1-1	HunYuanVideo	color	a red clock-3.mp4	1
+Gen-3	videocrafter-1	subject_consistency	a person eating a burger-3.mp4	0
+lavie	videocrafter-09	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, surrealism style-2.mp4	0
+CogVideoX-2B(SAT)	CausVid	subject_consistency	a dog enjoying a peaceful walk-0.mp4	1
+Kling	HiGen	spatial_relationship	a snowboard on the bottom of a kite, front view-3.mp4	0
+AnimateDiff-V2	cogvideo	temporal_flickering	A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-0.mp4	-1
+Gen-3	videocrafter-1	multiple_objects	a donut and a suitcase-1.mp4	0
+Lavie_interpolation	OpenSoraPlanv1-3	subject_consistency	a horse galloping across an open field-3.mp4	1
+Kling	Show-1	object_class	a bird-1.mp4	0
+TF-T2V	OpenSorav1-1	temporal_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-1.mp4	-1
+CausVid	HunYuanVideo	human_action	A person is riding scooter-0.mp4	1
+Luma	Vchitect-2.0-2B	temporal_style	Gwen Stacy reading a book, zoom out-3.mp4	0
+Vchitect-2.0-2B+VEnhancer	HunYuanVideo	appearance_style	An astronaut flying in space by Hokusai, in the style of Ukiyo-0.mp4	0
+TF-T2V	AnimateLCM	temporal_flickering	A tranquil tableau of a vintage rocking chair was placed on the porch-2.mp4	-1
+OpenSoraPlan1-2	Vchitect-2.0-2B+VEnhancer	object_class	a keyboard-1.mp4	1
+CogVideoX-2B(SAT)	AnimateDiff-V2	color	a red bicycle-0.mp4	1
+Vchitect-2.0-2B+VEnhancer	opensora	spatial_relationship	a boat on the left of an airplane, front view-4.mp4	0
+InstructVideo(ModelScope)	CogVideoX-2B(SAT)	overall_consistency	time lapse of sunrise on mars.-1.mp4	1
+videocrafter-09	OpenSorav1-1	object_class	a sink-4.mp4	-1
+OpenSoraV1-2(8s)	OpenSoraPlanv1-3	human_action	A person is eating watermelon-0.mp4	-1
+LTX-Video (5s 768×512)	CausVid_24fps	temporal_style	A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4	1
+cogvideo	videocrafter-2	scene	bedroom-4.mp4	1
+videocrafter	HunYuanVideo	appearance_style	A cute happy Corgi playing in park, sunset, black and white-2.mp4	1
+Mira-384	videocrafter	subject_consistency	a truck slowing down to stop-4.mp4	-1
+Jimeng	Gen-3	appearance_style	Gwen Stacy reading a book, surrealism style-0.mp4	-1
+RepVideo	modelscope	human_action	A person is dunking basketball-2.mp4	-1
+CogVideoX-5B(SAT)	Jimeng	overall_consistency	a fantasy landscape-4.mp4	1
+modelscope	AnimateDiff-V2	temporal_flickering	In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-3.mp4	1
+Jimeng	Mochi-1	color	a white bird-0.mp4	0
+Vchitect-2.0-2B+VEnhancer	videocrafter-2	object_class	a cup-1.mp4	0
+videocrafter-09	Luma	scene	courtyard-3.mp4	-1
+videocrafter-2	AnimateLCM	temporal_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4	0
+videocrafter	Mira-384	object_class	a sandwich-4.mp4	1
+TF-T2V	Vchitect-2.0-2B	scene	art gallery-1.mp4	1
+Vchitect-2.0-2B	pika-all-dimension	temporal_flickering	A tranquil tableau of a bench-2.mp4	-1
+Mira-384	modelscope	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, Van Gogh style-3.mp4	0
+Gen-3	opensora	human_action	A person is making bed-0.mp4	0
+Vchitect-2.0-2B+VEnhancer	InstructVideo(ModelScope)	scene	staircase-1.mp4	0
+videocrafter-2	vidu	appearance_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style-2.mp4	0
+MiniMax-Video-01	Kling	spatial_relationship	a kite on the bottom of a skateboard, front view-0.mp4	-1
+Mochi-1	LTX-Video (5s 768×512)	overall_consistency	A raccoon that looks like a turtle, digital art.-0.mp4	0
+CogVideoX-5B(SAT)	OpenSoraPlanv1-3	spatial_relationship	a train on the right of a boat, front view-0.mp4	0
+opensora	Latte-1	multiple_objects	a surfboard and a tennis racket-3.mp4	-1
+Vchitect-2.0-2B+VEnhancer	Wanx 2.1	scene	iceberg-1.mp4	-1
+Vchitect-2.0-2B+VEnhancer	Lavie_interpolation	temporal_style	The bund Shanghai, in super slow motion-3.mp4	0
+HunYuanVideo	OpenSorav1-1	subject_consistency	a giraffe running to join a herd of its kind-3.mp4	0
+MiniMax-Video-01	HiGen	appearance_style	a shark is swimming in the ocean, animated style-3.mp4	0
+Gen-2	modelscope	scene	beach-2.mp4	0
+pika-all-dimension	AnimateDiff-V1	overall_consistency	a teddy bear is swimming in the ocean.-1.mp4	-1
+TF-T2V	modelscope	color	a yellow bowl-4.mp4	0
+Gen-2	OpenSoraV1-2(8s)	object_class	a cow-4.mp4	0
+OpenSoraPlanv1-1	InstructVideo(ModelScope)	object_class	a book-1.mp4	-1
+videocrafter-2	TF-T2V	color	a black bird-1.mp4	0
+vidu	videocrafter-1	scene	bathroom-0.mp4	0
+opensora	CogVideoX-2B(SAT)	subject_consistency	a car accelerating to gain speed-3.mp4	1
+pika-all-dimension	Vchitect-2.0-2B	spatial_relationship	an elephant on the left of a bear, front view-0.mp4	0
+Vchitect-2.0-2B	CogVideoX1.5-5B	spatial_relationship	a sheep on the left of a cow, front view-1.mp4	1
+vidu	Latte-1	subject_consistency	a dog playing in park-1.mp4	0
+modelscope	TF-T2V	scene	cemetery-0.mp4	0
+OpenSoraPlan1-2	lavie	subject_consistency	a sheep taking a peaceful walk-0.mp4	1
+cogvideo	pika-all-dimension	object_class	a backpack-3.mp4	1
+Jimeng	AnimateLCM	temporal_style	An astronaut flying in space, racking focus-0.mp4	0
+videocrafter-09	OpenSoraPlanv1-3	multiple_objects	a horse and a sheep-3.mp4	1
+Wanx 2.1	videocrafter-2	multiple_objects	a bicycle and a car-0.mp4	1
+vidu	AnimateLCM	color	a green bicycle-4.mp4	0
+Jimeng	vidu	scene	crosswalk-0.mp4	0
+OpenSoraV1-2(8s)	OpenSoraPlan1-2	spatial_relationship	a sandwich on the top of an orange, front view-4.mp4	-1
+InstructVideo(ModelScope)	videocrafter-09	color	a blue bicycle-1.mp4	-1
+TF-T2V	Gen-2	temporal_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4	0
+OpenSoraPlan1-2	CogVideoX-5B(SAT)	object_class	an orange-3.mp4	1
+videocrafter	Lavie_interpolation	multiple_objects	a person and a toothbrush-2.mp4	-1
+Latte-1	OpenSoraPlanv1-1	multiple_objects	a backpack and an umbrella-1.mp4	0
+TF-T2V	OpenSoraPlan1-2	temporal_style	A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4	0
+AnimateDiff-V1	Sora	scene	ocean-2.mp4	1
+OpenSorav1-1	Pika-1	overall_consistency	Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-0.mp4	1
+Jimeng	Latte-1	subject_consistency	an elephant taking a peaceful walk-2.mp4	0
+CogVideoX-5B(SAT)	videocrafter-1	overall_consistency	A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4	1
+opensora	Luma	subject_consistency	a cow chewing cud while resting in a tranquil barn-0.mp4	1
+videocrafter	vidu	human_action	A person is cutting watermelon-2.mp4	1
+OpenSoraPlanv1-1	Wanx 2.1	object_class	a fork-2.mp4	1
+cogvideo	Luma	subject_consistency	a car slowing down to stop-0.mp4	1
+CausVid_24fps	Vchitect-2.0-2B	spatial_relationship	a microwave on the bottom of an oven, front view-1.mp4	0
+OpenSoraPlan1-2	Luma	human_action	A person is riding a bike-4.mp4	1
+CausVid_24fps	CogVideoX1.5-5B	temporal_flickering	In a still frame, courtyard-4.mp4	0
+Show-1	InstructVideo(ModelScope)	human_action	A person is massaging legs-0.mp4	-1
+Mochi-1	Gen-3	subject_consistency	an airplane taking off-1.mp4	0
+MiracleVision V5	Vchitect-2.0-2B+VEnhancer	appearance_style	A panda drinking coffee in a cafe in Paris, in cyberpunk style-2.mp4	0
+CogVideoX-5B(SAT)	OpenSoraPlan1-2	appearance_style	Gwen Stacy reading a book, in cyberpunk style-3.mp4	1
+CogVideoX-2B(SAT)	Jimeng	human_action	A person is shining shoes-3.mp4	-1
+videocrafter	videocrafter-2	overall_consistency	Sewing machine, old sewing machine working.-0.mp4	1
+Lavie_interpolation	MiniMax-Video-01	temporal_flickering	In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-3.mp4	1
+Luma	videocrafter-09	multiple_objects	skis and a snowboard-2.mp4	0
+HunYuanVideo	Jimeng	color	a black umbrella-0.mp4	1
+Pika-1	Latte-1	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-4.mp4	1
+OpenSoraV1-2(8s)	RepVideo	multiple_objects	a horse and a sheep-3.mp4	1
+videocrafter-09	MiracleVision V5	human_action	A person is washing dishes-3.mp4	1
+Latte-1	vidu	color	a green car-2.mp4	1
+AnimateLCM	EasyAnimateV5.1	scene	bridge-1.mp4	1
+OpenSoraPlanv1-3	CogVideoX-2B(SAT)	scene	jail cell-3.mp4	1
+OpenSoraPlanv1-1	AnimateDiff-V1	object_class	a boat-1.mp4	1
+Luma	Vchitect-2.0-2B+VEnhancer	spatial_relationship	a car on the right of a motorcycle, front view-2.mp4	0
+cogvideo	Luma	human_action	A person is tasting beer-3.mp4	1
+videocrafter-09	HiGen	scene	campsite-4.mp4	1
+OpenSoraPlanv1-1	lavie	overall_consistency	A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-3.mp4	-1
+Pika-1	Kling	multiple_objects	a suitcase and a vase-2.mp4	1
+Wanx 2.1	videocrafter	appearance_style	A cute happy Corgi playing in park, sunset by Hokusai, in the style of Ukiyo-0.mp4	0
+Gen-2	OpenSorav1-1	overall_consistency	A super robot protecting city-0.mp4	0
+vidu	AnimateLCM	appearance_style	a shark is swimming in the ocean, Van Gogh style-3.mp4	1
+Show-1	modelscope	appearance_style	A cute happy Corgi playing in park, sunset, animated style-2.mp4	1
+Show-1	modelscope	appearance_style	A cute happy Corgi playing in park, sunset, animated style-2.mp4	0
+RepVideo	Vchitect-2.0-2B	spatial_relationship	a skateboard on the top of a surfboard, front view-3.mp4	-1
+AnimateLCM	CausVid	multiple_objects	a cat and a dog-4.mp4	1
+OpenSoraPlan1-2	OpenSoraPlanv1-3	appearance_style	Gwen Stacy reading a book, in cyberpunk style-2.mp4	1
+OpenSoraPlan1-2	OpenSoraPlanv1-3	appearance_style	Gwen Stacy reading a book, in cyberpunk style-2.mp4	-1
+MiracleVision V5	OpenSorav1-1	multiple_objects	a snowboard and a sports ball-0.mp4	0
+MiracleVision V5	OpenSorav1-1	multiple_objects	a snowboard and a sports ball-0.mp4	-1
+HiGen	cogvideo	object_class	a car-0.mp4	-1
+AnimateDiff-V2	OpenSorav1-1	overall_consistency	Aerial panoramic video from a drone of a fantasy land.-0.mp4	0
+Wanx 2.1	lavie	multiple_objects	a backpack and an umbrella-0.mp4	-1
+Pika-1	Vchitect-2.0-2B+VEnhancer	color	an orange clock-0.mp4	-1
+Kling	MiracleVision V5	appearance_style	An astronaut flying in space, surrealism style-0.mp4	1
+OpenSoraPlanv1-3	OpenSoraV1-2(8s)	object_class	an elephant-1.mp4	1
+Show-1	TF-T2V	object_class	a parking meter-3.mp4	0
+CausVid	opensora	multiple_objects	a cell phone and a book-4.mp4	0
+EasyAnimateV5.1	MiniMax-Video-01	subject_consistency	a horse galloping across an open field-3.mp4	1
+HunYuanVideo	CausVid_24fps	object_class	a sink-4.mp4	1
+CogVideoX-5B(SAT)	Gen-2	temporal_flickering	A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-1.mp4	-1
+opensora	OpenSoraV1-2(8s)	color	an orange chair-1.mp4	0
+AnimateDiff-V1	Show-1	temporal_flickering	In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-4.mp4	1
+TF-T2V	CausVid_24fps	appearance_style	A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style-1.mp4	1
+MiniMax-Video-01	lavie	appearance_style	An astronaut flying in space, watercolor painting-4.mp4	0
+OpenSoraPlan1-2	Latte-1	temporal_flickering	A tranquil tableau of an antique bowl-2.mp4	1
+Latte-1	Vchitect-2.0-2B	spatial_relationship	a banana on the top of an apple, front view-4.mp4	-1
+Vchitect-2.0-2B	LTX-Video (5s 768×512)	object_class	a traffic light-1.mp4	0
+CausVid_24fps	Luma	multiple_objects	a tv and a laptop-1.mp4	0
+AnimateLCM	OpenSorav1-1	scene	restaurant-3.mp4	0
+CausVid_24fps	pika-all-dimension	overall_consistency	A cute happy Corgi playing in park, sunset-0.mp4	0
+Wanx 2.1	Luma	temporal_flickering	A tranquil tableau of a dining table-1.mp4	0
+Vchitect-2.0-2B	lavie	object_class	a spoon-4.mp4	-1
+videocrafter-2	HunYuanVideo	multiple_objects	a stop sign and a parking meter-1.mp4	1
+Vchitect-2.0-2B+VEnhancer	cogvideo	spatial_relationship	a hot dog on the bottom of a pizza, front view-0.mp4	-1
+EasyAnimateV5.1	CogVideoX1.5-5B	human_action	A person is kissing-2.mp4	1
+Mira-384	OpenSoraPlanv1-1	color	a purple clock-3.mp4	1
+MiracleVision V5	Luma	temporal_style	An astronaut flying in space, with an intense shaking effect-0.mp4	0
+Lavie_interpolation	videocrafter-09	overall_consistency	Gwen Stacy reading a book-0.mp4	-1
+RepVideo	CogVideoX-2B(SAT)	temporal_style	A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4	1
+LTX-Video (5s 768×512)	OpenSoraPlanv1-3	scene	bar-0.mp4	-1
+videocrafter-09	CausVid	scene	downtown-3.mp4	1
+Wanx 2.1	Show-1	object_class	a cow-3.mp4	0
+Gen-2	CogVideoX1.5-5B	temporal_flickering	A tranquil tableau of a bowl on the kitchen counter-1.mp4	1
+HunYuanVideo	Mira-384	human_action	A person is skydiving-0.mp4	0
+CausVid	Pika-1	temporal_flickering	In a still frame, a stop sign-3.mp4	0
+CogVideoX-2B(SAT)	CausVid	scene	volcano-2.mp4	1
+EasyAnimateV5.1	Show-1	temporal_style	A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4	0
+videocrafter	lavie	color	a purple car-3.mp4	-1
+Gen-3	Pika-1	object_class	skis-0.mp4	0
+Gen-2	videocrafter-09	overall_consistency	a teddy bear is swimming in the ocean.-2.mp4	-1
+opensora	CogVideoX1.5-5B	multiple_objects	scissors and a teddy bear-3.mp4	1
+InstructVideo(ModelScope)	LTX-Video (5s 768×512)	subject_consistency	a person walking in the snowstorm-3.mp4	1
+pika-all-dimension	OpenSoraPlanv1-3	object_class	a train-4.mp4	1
+AnimateDiff-V2	Gen-2	human_action	A person is smoking-3.mp4	0
+lavie	LTX-Video (5s 768×512)	multiple_objects	a sports ball and a kite-4.mp4	-1
+LTX-Video (5s 768×512)	Kling	object_class	a couch-4.mp4	1
+OpenSoraPlanv1-1	OpenSoraV1-2(8s)	appearance_style	A panda drinking coffee in a cafe in Paris, oil painting-2.mp4	1
+AnimateLCM	MiniMax-Video-01	temporal_style	A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4	1
+Show-1	CogVideoX1.5-5B	spatial_relationship	a skateboard on the bottom of a surfboard, front view-2.mp4	0
+opensora	modelscope	spatial_relationship	an orange on the bottom of a carrot, front view-0.mp4	1
+TF-T2V	LTX-Video (5s 768×512)	spatial_relationship	a clock on the left of a vase, front view-0.mp4	1
+videocrafter	EasyAnimateV5.1	overall_consistency	Turtle swimming in ocean.-4.mp4	1
+Luma	videocrafter-1	multiple_objects	a laptop and a remote-1.mp4	0
+EasyAnimateV5.1	HunYuanVideo	color	A person is crawling baby-1.mp4	1
+EasyAnimateV5.1	Kling	temporal_style	A panda drinking coffee in a cafe in Paris, pan left-2.mp4	0
+Kling	MiniMax-Video-01	human_action	A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo-1.mp4	-1
+Pika-1	AnimateLCM	object_class	a parking meter-1.mp4	0
+cogvideo	Vchitect-2.0-2B+VEnhancer	human_action	A person is riding scooter-2.mp4	-1
+STIV (Apple)	Pika-1	multiple_objects	broccoli and a backpack-3.mp4	1
+videocrafter-09	pika-all-dimension	object_class	a baseball bat-4.mp4	1
+InstructVideo(ModelScope)	cogvideo	spatial_relationship	a knife on the left of a spoon, front view-1.mp4	-1
+Sora	Wanx 2.1	spatial_relationship	a bear on the right of a zebra, front view-2.mp4	1
+OpenSorav1-1	MiracleVision V5	object_class	a sheep-2.mp4	1
+MiniMax-Video-01	Latte-1	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pixel art-0.mp4	-1
+CausVid_24fps	OpenSoraPlanv1-1	subject_consistency	a train crossing over a tall bridge-0.mp4	0
+CausVid_24fps	Luma	multiple_objects	a microwave and a frisbee-3.mp4	0
+modelscope	CogVideoX1.5-5B	scene	pharmacy-3.mp4	0
+CogVideoX1.5-5B	Mochi-1	temporal_style	a shark is swimming in the ocean, pan left-4.mp4	0
+Wanx 2.1	STIV (Apple)	temporal_flickering	A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4	1
+InstructVideo(ModelScope)	OpenSoraPlanv1-1	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, watercolor painting-2.mp4	0
+OpenSoraPlanv1-1	CogVideoX1.5-5B	subject_consistency	a person swimming in ocean-4.mp4	1
+Show-1	Jimeng	human_action	A person is bending metal-1.mp4	-1
+Mochi-1	OpenSoraPlan1-2	scene	golf course-3.mp4	-1
+Mira-384	HunYuanVideo	temporal_flickering	A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-2.mp4	1
+CausVid_24fps	OpenSorav1-1	overall_consistency	Aerial panoramic video from a drone of a fantasy land.-0.mp4	0
+Mira-384	CogVideoX-5B(SAT)	multiple_objects	a car and a train-0.mp4	1
+OpenSoraPlanv1-3	Gen-3	overall_consistency	A cute happy Corgi playing in park, sunset-1.mp4	1
+pika-all-dimension	OpenSoraPlanv1-3	temporal_flickering	A tranquil tableau of an apple-4.mp4	1
+lavie	Gen-3	spatial_relationship	a sandwich on the top of an orange, front view-3.mp4	1
+videocrafter	Gen-3	multiple_objects	a stop sign and a parking meter-4.mp4	1
+videocrafter-1	CogVideoX-5B(SAT)	subject_consistency	a bird building a nest from twigs and leaves-4.mp4	1
+InstructVideo(ModelScope)	STIV (Apple)	spatial_relationship	a pizza on the top of a donut, front view-0.mp4	1
+Gen-2	CogVideoX-5B(SAT)	multiple_objects	a kite and a baseball bat-2.mp4	1
+modelscope	Gen-3	human_action	A person is doing aerobics-4.mp4	1
+Sora	Wanx 2.1	color	a purple clock-0.mp4	1
+Sora	lavie	scene	staircase-4.mp4	0
+Show-1	MiniMax-Video-01	temporal_flickering	A tranquil tableau of a bowl on the kitchen counter-3.mp4	1
+WanX2.1(2025-02-24)	Jimeng	spatial_relationship	a truck stuck in traffic during rush hour-1.mp4	0
+Mochi-1	cogvideo	appearance_style	a shark is swimming in the ocean, black and white-1.mp4	0
+Sora	WanX2.1(2025-02-24)	temporal_style	Gwen Stacy reading a book, racking focus-2.mp4	0
+InstructVideo(ModelScope)	CogVideoX-5B(SAT)	temporal_flickering	A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-2.mp4	0
+OpenSoraV1-2(8s)	AnimateLCM	scene	cemetery-2.mp4	0
+OpenSoraPlanv1-3	Luma	object_class	a motorcycle-1.mp4	1
+WanX2.1(2025-02-24)	Lavie_interpolation	color	a red umbrella-4.mp4	0
+Vchitect-2.0-2B	Wanx 2.1	human_action	A person is trimming or shaving beard-2.mp4	1
+OpenSoraV1-2(8s)	Kling	subject_consistency	a truck accelerating to gain speed-0.mp4	1
+HunYuanVideo	TF-T2V	temporal_style	A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4	0
+Pika-1	OpenSorav1-1	color	an orange bird-1.mp4	0
+vidu	TF-T2V	multiple_objects	a sandwich and a book-3.mp4	0
+Sora	WanX2.1(2025-02-24)	overall_consistency	A raccoon is playing the electronic guitar.-3.mp4	1
+RepVideo	CogVideoX-2B(SAT)	temporal_style	A cute happy Corgi playing in park, sunset, zoom in-4.mp4	0
+Gen-2	Pika-1	temporal_flickering	A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-1.mp4	0
+CogVideoX-5B(SAT)	Gen-3	overall_consistency	happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4	1
+HiGen	pika-all-dimension	multiple_objects	an orange and a clock-1.mp4	1
+Mira-384	MiniMax-Video-01	overall_consistency	A squirrel eating a burger.-1.mp4	1
+Mira-384	opensora	color	an orange chair-1.mp4	1
+Pika-1	Kling	human_action	A person is sailing-0.mp4	1
+CogVideoX-5B(SAT)	lavie	object_class	a toaster-1.mp4	0
+OpenSoraV1-2(8s)	Jimeng	subject_consistency	a bird soaring gracefully in the sky-2.mp4	1
+CausVid_24fps	pika-all-dimension	multiple_objects	a stop sign and a parking meter-3.mp4	0
+OpenSoraV1-2(8s)	Gen-2	color	a pink car-4.mp4	1
+videocrafter-2	videocrafter-1	object_class	a fork-3.mp4	0
+Vchitect-2.0-2B+VEnhancer	Wanx 2.1	overall_consistency	happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4	1
+OpenSoraPlanv1-3	HunYuanVideo	multiple_objects	an orange and a clock-1.mp4	1
+CausVid	Vchitect-2.0-2B	human_action	A person is driving car-0.mp4	0
+IPOC	Jimeng	spatial_relationship	an airplane on the left of a train, front view-1.mp4	1
+Luma	OpenSoraV1-2(8s)	appearance_style	fountain-0.mp4	0
+Mochi-1	MiracleVision V5	subject_consistency	a train crossing over a tall bridge-2.mp4	1
+CausVid_24fps	EasyAnimateV5.1	human_action	A person is digging-0.mp4	-1
+HunYuanVideo	AnimateDiff-V1	human_action	a wine glass-4.mp4	0
+AnimateDiff-V1	OpenSoraPlanv1-3	multiple_objects	a knife and a tv-3.mp4	0
+lavie	cogvideo	spatial_relationship	a microwave on the bottom of an oven, front view-1.mp4	0
+videocrafter-1	EasyAnimateV5.1	color	a pink bowl-4.mp4	1
+CogVideoX1.5-5B	Jimeng	overall_consistency	a drone flying over a snowy forest.-3.mp4	1
+Latte-1	Luma	human_action	A person is climbing a rope-3.mp4	1
+cogvideo	OpenSoraV1-2(8s)	object_class	a hair drier-3.mp4	1
+videocrafter-09	Jimeng	scene	harbor-4.mp4	1
+IPOC	Mira-384	object_class	a bear-0.mp4	0
+videocrafter-09	CogVideoX-5B(SAT)	subject_consistency	a train accelerating to gain speed-4.mp4	1
+videocrafter-09	CogVideoX-5B(SAT)	overall_consistency	A corgi is playing drum kit.-2.mp4	1
+WanX2.1(2025-02-24)	CogVideoX-5B (Diffusers)	overall_consistency	a drone flying over a snowy forest.-1.mp4	0
+videocrafter-2	Kling	multiple_objects	a horse and a sheep-0.mp4	1
+Wanx 2.1	Sora	human_action	an orange on the bottom of a carrot, front view-3.mp4	0
+videocrafter-2	WanX2.1(2025-02-24)	overall_consistency	A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4	1
+Latte-1	Jimeng	overall_consistency	An artist brush painting on a canvas close up.-2.mp4	1
+CogVideoX-5B (Diffusers)	Gen-2	object_class	a vase-3.mp4	0
+HunYuanVideo	OpenSoraPlanv1-3	multiple_objects	a baseball glove and a skateboard-3.mp4	0
+AnimateLCM	EasyAnimateV5.1	temporal_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4	1
+Open-Sora-2.0	CogVideoX-5B(SAT)	object_class	a pizza-3.mp4	1
+STIV (Apple)	MiracleVision V5	temporal_style	A cute happy Corgi playing in park, sunset, racking focus-1.mp4	1
+pika-all-dimension	AnimateDiff-V2	object_class	a sandwich-3.mp4	-1
+opensora	Gen-2	multiple_objects	a cup and a couch-1.mp4	0
+videocrafter-1	CogVideoX-5B (Diffusers)	temporal_style	A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4	1
+lavie	CogVideoX-2B (Diffusers)	spatial_relationship	a microwave on the bottom of an oven, front view-0.mp4	1
+Pika-1	Gen-2	scene	ocean-0.mp4	0
+TF-T2V	Mira-384	human_action	A person is strumming guitar-0.mp4	0
+Luma	AnimateLCM	overall_consistency	A cute raccoon playing guitar in a boat on the ocean-1.mp4	1
+HunYuanVideo	WanX2.1(2025-02-24)	scene	a green vase-0.mp4	1
+Gen-3	Luma	color	a pink bicycle-2.mp4	0
+OpenSoraV1-2(8s)	vidu	human_action	A person is playing controller-3.mp4	1
+CogVideoX1.5-5B	Wanx 2.1	color	a white cat-4.mp4	1
+AnimateLCM	OpenSoraPlanv1-3	human_action	A person is smoking-3.mp4	-1
+CausVid	Mira-384	color	a black vase-2.mp4	0
+CausVid	WanX2.1(2025-02-24)	scene	valley-4.mp4	1
+Mochi-1	CausVid	scene	None	1
+WanX2.1(2025-02-24)	Show-1	temporal_flickering	A tranquil tableau of bar-3.mp4	0
+TF-T2V	Gen-3	subject_consistency	an elephant running to join a herd of its kind-4.mp4	1
+OpenSoraV1-2(8s)	Vchitect-2.0-2B+VEnhancer	scene	street-1.mp4	-1
+IPOC	AnimateDiff-V1	temporal_flickering	A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-3.mp4	0
+lavie	MiniMax-Video-01	subject_consistency	a horse running to join a herd of its kind-3.mp4	1
+LTX-Video (5s 768×512)	AnimateDiff-V1	multiple_objects	a toilet and a hair drier-0.mp4	-1
+HunYuanVideo	MiracleVision V5	spatial_relationship	a sheep on the left of a cow, front view-1.mp4	1
+videocrafter-2	OpenSoraPlanv1-3	multiple_objects	a fire hydrant and a stop sign-3.mp4	0
+Sora	InstructVideo(ModelScope)	subject_consistency	a truck stuck in traffic during rush hour-1.mp4	0
+Luma	Show-1	subject_consistency	a zebra bending down to drink water from a river-4.mp4	0
+InstructVideo(ModelScope)	Vchitect-2.0-2B+VEnhancer	appearance_style	The bund Shanghai, oil painting-1.mp4	1
+Open-Sora-2.0	wanx-1.3B	temporal_style	A panda drinking coffee in a cafe in Paris, zoom out-0.mp4	0
+Lavie_interpolation	Sora	subject_consistency	a dog running happily-1.mp4	1
+Wanx 2.1	Lavie_interpolation	scene	restaurant-1.mp4	0
+videocrafter-09	Jimeng	temporal_flickering	In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-2.mp4	1
+AnimateDiff-V2	CogVideoX-2B (Diffusers)	temporal_style	Gwen Stacy reading a book, with an intense shaking effect-4.mp4	0
+CogVideoX-2B (Diffusers)	Mira-384	appearance_style	The bund Shanghai, in cyberpunk style-1.mp4	0
+OpenSorav1-1	lavie	overall_consistency	A car moving slowly on an empty street, rainy evening-1.mp4	1
+pika-all-dimension	OpenSoraPlanv1-3	multiple_objects	a boat and an airplane-1.mp4	1
+CausVid_24fps	OpenSoraPlan1-2	color	a black umbrella-3.mp4	0
+OpenSoraPlanv1-1	Pika-1	color	a pink umbrella-0.mp4	1
+Show-1	CogVideoX-2B (Diffusers)	scene	barn-3.mp4	1
+CausVid_24fps	EasyAnimateV5.1	appearance_style	A couple in formal evening wear going home get caught in a heavy downpour with umbrellas by Hokusai, in the style of Ukiyo-1.mp4	-1
+Open-Sora-2.0	Open-Sora-2.0	human_action	A beautiful coastal beach in spring, waves lapping on sand, black and white-3.mp4	-1
+CogVideoX-5B (Diffusers)	CausVid	temporal_style	a shark is swimming in the ocean, pan right-3.mp4	1
+MiracleVision V5	Jimeng	object_class	a pizza-1.mp4	0
+OpenSoraPlan1-2	vidu	scene	laboratory-2.mp4	0
+WanX2.1(2025-02-24)	AnimateDiff-V2	human_action	A person is ironing-0.mp4	0
+Jimeng	AnimateLCM	spatial_relationship	a skateboard on the bottom of a surfboard, front view-3.mp4	-1
+MiniMax-Video-01	modelscope	color	a green car-1.mp4	0
+Sora	IPOC	object_class	a suitcase-4.mp4	0
+Gen-2	AnimateDiff-V1	spatial_relationship	a wine glass on the right of a cup, front view-2.mp4	0
+OpenSoraV1-2(8s)	Sora	overall_consistency	A shark swimming in clear Caribbean ocean-2.mp4	1
+Mochi-1	Jimeng	subject_consistency	a bird building a nest from twigs and leaves-2.mp4	1
+Mochi-1	Open-Sora-2.0	scene	beach-0.mp4	0
+TF-T2V	MiracleVision V5	object_class	basement-1.mp4	1
+AnimateDiff-V2	OpenSorav1-1	temporal_style	A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4	0
+CogVideoX-2B(SAT)	OpenSoraV1-2(8s)	spatial_relationship	a giraffe on the right of a bird, front view-2.mp4	0
+MiracleVision V5	Open-Sora 2.0 (2025-03-18)	color	a purple suitcase-3.mp4	0
+STIV (Apple)	Open-Sora-2.0	scene	A person is kissing-3.mp4	1
+WanX2.1(2025-02-24)	vidu	multiple_objects	a snowboard and a sports ball-4.mp4	1
+Sora	HunYuanVideo	human_action	an orange suitcase-4.mp4	0
+Open-Sora 2.0 (2025-03-18)	videocrafter-09	spatial_relationship	a clock on the left of a vase, front view-3.mp4	0
+CausVid_24fps	opensora	human_action	A person is trimming or shaving beard-2.mp4	0
+InstructVideo(ModelScope)	OpenSoraPlan1-2	temporal_flickering	A tranquil tableau of an antique bowl-1.mp4	-1
+Luma	IPOC	multiple_objects	a knife and a tv-4.mp4	0
+Vchitect-2.0-2B+VEnhancer	vidu	color	a purple clock-4.mp4	1
+Wanx 2.1	Gen-3	subject_consistency	a horse galloping across an open field-4.mp4	-1
+HiGen	IPOC	appearance_style	A cute happy Corgi playing in park, sunset, pixel art-1.mp4	1
+LTX-Video (5s 768×512)	Latte-1	scene	forest road-2.mp4	0
+Jimeng	opensora	spatial_relationship	a cat on the right of a dog, front view-4.mp4	0
+Pika-1	Mochi-1	object_class	a sink-4.mp4	1
+CogVideoX1.5-5B	AccVideo	spatial_relationship	a cat on the right of a dog, front view-4.mp4	0
+Sora	AnimateDiff-V1	spatial_relationship	a teddy bear on the right of a potted plant, front view-0.mp4	0
+LTX-Video (5s 768×512)	stepvideo-t2v	human_action	a truck on the right of a bicycle, front view-3.mp4	1
+InstructVideo(ModelScope)	CogVideoX1.5-5B	appearance_style	a shark is swimming in the ocean, with an intense shaking effect-1.mp4	1
+OpenSoraPlan1-2	Gen-3	scene	a car and a train-2.mp4	1
+Jimeng	OpenSoraPlan1-2	object_class	a clock-2.mp4	0
+videocrafter-1	CausVid	multiple_objects	a hair drier and a toothbrush-4.mp4	1
+Open-Sora 2.0 (2025-03-18)	CogVideoX-2B(SAT)	object_class	a zebra-4.mp4	-1
+MiracleVision V5	InstructVideo(ModelScope)	object_class	a carrot-4.mp4	0
+MiracleVision V5	CausVid_24fps	temporal_flickering	In a still frame, a stop sign-4.mp4	1
+WanX2.1(2025-02-24)	CogVideoX1.5-5B	overall_consistency	Two pandas discussing an academic paper.-2.mp4	0
+CogVideoX-5B (Diffusers)	HunYuanVideo	multiple_objects	a cat and a dog-0.mp4	0
+opensora	Sora	human_action	A person is rock scissors paper-3.mp4	1
+CogVideoX-2B(SAT)	Wanx 2.1	subject_consistency	a dog drinking water-3.mp4	-1
+HunYuanVideo	Mochi-1	color	an orange umbrella-0.mp4	0
+HunYuanVideo	Sora	appearance_style	A panda drinking coffee in a cafe in Paris, black and white-4.mp4	0
+Jimeng	OpenSorav1-1	object_class	an airplane-2.mp4	0
+Sora	videocrafter-2	human_action	A person is rock climbing-2.mp4	1
+HiGen	videocrafter-2	multiple_objects	a potted plant and a tv-4.mp4	1
+opensora	InstructVideo(ModelScope)	human_action	A person is bandaging-1.mp4	1
+vidu	MiniMax-Video-01	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, oil painting-4.mp4	0
+IPOC	Vidu Q1 (2025-04-17)	temporal_style	a shark is swimming in the ocean, in super slow motion-2.mp4	1
+MiracleVision V5	videocrafter-1	subject_consistency	a cat grooming itself meticulously with its tongue-3.mp4	0
+Wan2.1-T2V-1.3B	Wanx 2.1	spatial_relationship	a stop sign on the left of a parking meter, front view-1.mp4	0
+Luma	Gen-2	overall_consistency	A panda standing on a surfboard in the ocean in sunset.-3.mp4	0
+Latte-1	lavie	subject_consistency	a person giving a presentation to a room full of colleagues-0.mp4	1
+Sora	Pika-1	scene	palace-4.mp4	0
+IPOC(2025-04-14)	Kling	human_action	A person is canoeing or kayaking-2.mp4	1
+Wanx 2.1	Gen-2	subject_consistency	a horse taking a peaceful walk-1.mp4	0
+videocrafter-1	OpenSoraPlanv1-1	color	a red car-4.mp4	-1
+Wan2.1-T2V-1.3B	Show-1	object_class	skis-1.mp4	0
+lavie	AnimateDiff-V2	temporal_style	A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4	0
+Luma	EasyAnimateV5.1	appearance_style	A panda drinking coffee in a cafe in Paris, animated style-2.mp4	1
+CogVideoX1.5-5B	Sora	appearance_style	A cute happy Corgi playing in park, sunset, black and white-4.mp4	-1
+OpenSorav1-1	AnimateDiff-V2	scene	carrousel-0.mp4	-1
+Vchitect-2.0-2B+VEnhancer	Show-1	overall_consistency	A teddy bear is playing drum kit in NYC Times Square.-3.mp4	0
+OpenSoraPlan1-2	modelscope	human_action	A person is crying-4.mp4	0
+AccVideo	OpenSorav1-1	temporal_flickering	A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-2.mp4	0
+Vidu Q1 (2025-04-17)	videocrafter	temporal_flickering	A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4	0
+CogVideoX-2B(SAT)	OpenSoraPlanv1-3	color	a purple suitcase-4.mp4	1
+OpenSorav1-1	Lavie_interpolation	subject_consistency	a giraffe taking a peaceful walk-1.mp4	1
+CogVideoX1.5-5B	Open-Sora-2.0	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-3.mp4	1
+CogVideoX1.5-5B	Open-Sora-2.0	appearance_style	A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style-3.mp4	-1
+Open-Sora 2.0 (2025-03-18)	Wan2.1-T2V-1.3B	color	a white cat-2.mp4	-1
+AnimateLCM	HunYuanVideo	subject_consistency	a dog playing in park-4.mp4	1
+Sora	AnimateLCM	spatial_relationship	a giraffe on the right of a bird, front view-0.mp4	0
+Vchitect-2.0-2B+VEnhancer	Mochi-1	object_class	a bird-1.mp4	1
+Vchitect-2.0-2B+VEnhancer	Vidu Q1 (2025-04-17)	object_class	a handbag-1.mp4	1
+lavie	HunYuanVideo	human_action	Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4	0
+IPOC	AccVideo	temporal_flickering	In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-0.mp4	0
+pika-all-dimension	HiGen	object_class	a tie-2.mp4	1
+IPOC	CogVideoX-2B (Diffusers)	color	a white vase-4.mp4	-1
+Mochi-1	videocrafter-1	human_action	A person is shaking hands-0.mp4	0
+Jimeng	OpenSoraPlanv1-3	color	a blue chair-0.mp4	0
+Vchitect-2.0-2B+VEnhancer	Wan2.1-T2V-1.3B (2025-05-03)	temporal_style	A cute happy Corgi playing in park, sunset, tilt down-3.mp4	1
+Mochi-1	EasyAnimateV5.1	human_action	A person is catching or throwing frisbee-3.mp4	-1
+Wan2.1-T2V-1.3B (2025-05-03)	Wanx 2.1	overall_consistency	Yellow flowers swing in the wind-2.mp4	-1
+lavie	TF-T2V	spatial_relationship	an orange on the top of a carrot, front view-3.mp4	-1
+Sora	OpenSoraPlanv1-3	object_class	a toothbrush-4.mp4	-1
+HiGen	Jimeng	color	a white bowl-2.mp4	0
+cogvideo	Mochi-1	object_class	a hair drier-4.mp4	1
+CogVideoX1.5-5B	videocrafter-1	human_action	A person is pushing cart-1.mp4	0
+Open-Sora 2.0 (2025-03-18)	MiracleVision V5	subject_consistency	a motorcycle accelerating to gain speed-4.mp4	-1
+Vidu Q1 (2025-04-17)	Latte-1	appearance_style	a shark is swimming in the ocean, watercolor painting-3.mp4	0
+AnimateDiff-V2	AnimateLCM	appearance_style	An astronaut flying in space, surrealism style-4.mp4	0
+AnimateDiff-V2	AnimateLCM	appearance_style	An astronaut flying in space, surrealism style-4.mp4	0
+modelscope	CogVideoX-5B(SAT)	color	a yellow car-4.mp4	1
+Lavie_interpolation	Kling-1.6	color	a yellow car-1.mp4	0
+Kling	videocrafter-09	subject_consistency	a bear catching a salmon in its powerful jaws-3.mp4	0
+Jimeng	CogVideoX-5B(SAT)	overall_consistency	A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4	0

@@ -1,4 +1,4 @@
-# CS224R: Reinforcement Learning — Theory and Practice 🎯  
+# CS224R: Reinforcement Learning — Theory and Practice   
 **Stanford University — Spring 2025**
 
 This repository contains homeworks and the final project completed for **CS224R: Deep Reinforcement Learning** at Stanford.  
